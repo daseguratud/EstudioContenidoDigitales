@@ -1,7 +1,6 @@
-Preface xiii
-How to Use This Book for Self-Study xviii
-Digital Resources xix
-About the Authors xxiv
+How to Use This Book for Self-Study
+Digital Resources 
+About the Authors 
 Unit 1 Introduction
 Number Systems and Conversion 1
 Objectives 1
@@ -23,12 +22,8 @@ Study Guide 30
 2.1 Introduction 36
 2.2 Basic Operations 37
 2.3 Boolean Expressions and Truth Tables 39
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-vi Contents
 2.4 Basic Theorems 41
-2.5 Commutative, Associative, Distributive, and
-DeMorgan’s Laws 43
+2.5 Commutative, Associative, Distributive, and DeMorgan’s Laws 43
 2.6 Simplification Theorems 46
 2.7 Multiplying Out and Factoring 49
 2.8 Complementing Boolean Expressions 52
@@ -60,9 +55,6 @@ Objectives 123
 Study Guide 124
 5.1 Minimum Forms of Switching Functions 134
 5.2 Two- and Three-Variable Karnaugh Maps 136
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-Contents vii
 5.3 Four-Variable Karnaugh Maps 141
 5.4 Determination of Minimum Expressions Using
 Essential Prime Implicants 144
@@ -96,9 +88,6 @@ Determination of Essential Prime Implicants for
 Multiple-Output Realization 216
 7.7 Multiple-Output NAND- and NOR-Gate Circuits 217
 Problems 218
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-viii Contents
 Unit 8 Combinational Circuit Design
 and Simulation Using Gates 225
 Objectives 225
@@ -134,8 +123,6 @@ Study Guide 295
 10.2 VHDL Models for Multiplexers 304
 10.3 VHDL Modules 306
 Four-Bit Full Adder 308
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
 Contents ix
 10.4 Signals and Constants 311
 10.5 Arrays 312
@@ -172,9 +159,6 @@ Counter Design Using D Flip-Flops 393
 12.5 Counter Design Using S-R and J-K Flip-Flops 395
 12.6 Derivation of Flip-Flop Input Equations—Summary 398
 Problems 402
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-x Contents
 Unit 13 Analysis of Clocked Sequential Circuits 412
 Objectives 412
 Study Guide 413
@@ -211,9 +195,6 @@ Implication Table 509
 15.8 Guidelines for State Assignment 523
 15.9 Using a One-Hot State Assignment 528
 Problems 531
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-Contents xi
 Unit 16 Sequential Circuit Design 545
 Objectives 545
 Study Guide 546
@@ -248,9 +229,6 @@ Study Guide 627
 18.3 Design of a Binary Divider 637
 Programmed Exercises 644
 Problems 648
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-xii Contents
 Unit 19 State Machine Design with SM Charts 660
 Objectives 660
 Study Guide 661

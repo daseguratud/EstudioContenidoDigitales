@@ -5,26 +5,26 @@ List of Tables xxix List of Abbreviations xxxi 1 Introduction 1
 11 Objectives  1
 111 Equationrepresentation  1
 112 Hardware platform implementation  3
-113 Sequentialdesign  4
-114 Datapathcomponents 6
-115 Backendlectures  6
-12 AnalogvsDigital 7
-13 DigitalDesign 11
-131 Levelsofdigitaldesign 12
-132 Whatdodigitaldesignersdo?  13
+113 Sequential design  4
+114 Data path components 6
+115 Backend lectures  6
+12 Analog vs Digital 7
+13 Digital Design 11
+131 Levels of digital design 12
+132 What do digital designers do?  13
 2 Numeral Systems and BCD codes 17
 21 Introduction 18
-211 Unarynumeralsystems 18
+211 Unary numeral systems 18
 212 The positional numeral system, or the place-value system  19
-2121 Binarynumbers  19
+2121 Binary numbers  19
 2122 Hexadecimal numbers  20
 2123 Octalnumbers  20
 2124 Converting from decimal to different bases 21
 2125 Converting from one arbitrary base (p) to anotherarbitrarybase(q)  22
 22 Addition and Subtraction in the Positional Numeral System  24
-23 NegativeNumbersinBinary  26
-231 Signedmagnitude  26
-232 The1’scomplement  28
+23 Negative Numbers in Binary  26
+231 Signed magnitude  26
+232 The 1’s complement  28
 2321 Addition in the 1’s complement  30
 2322 Subtraction in the 1’s complement  31
 233 The2’scomplement  32
@@ -36,19 +36,19 @@ List of Tables xxix List of Abbreviations xxxi 1 Introduction 1
 243 Thebiquinarycode  39
 244 Thegraycode 39
 245 BCDsummary  43
-25 MoreonNumberSystems  44
+25 More on Number Systems  44
 26 ConclusionandKeyPoints  46
 3 Boolean Algebra and Logic Gates 51
 31 Motivation 52
 32 HuntingtonPostulates 52
-33 BasicTheoremsofBooleanAlgebra  53
-331 Basicpostulateswith0and1 53
-332 Idempotentlaws  54
-333 TheLawofinvolution  54
-334 Complementaritylaws  54
-335 Commutativelaws  55
-336 Associativelaws  55
-337 Distributivelaws  55
+33 Basic Theorems of Boolean Algebra  53
+331 Basic postulates with 0 and 1 53
+332 Idempotent laws  54
+333 The Law of involution  54
+334 Complementarity laws  54
+335 Commutative laws  55
+336 Associative laws  55
+337 Distributive laws  55
 338 DeMorgan’slaws  56
 34 Duality  59
 341 What you should know from duality  60

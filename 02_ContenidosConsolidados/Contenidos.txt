@@ -1,3 +1,4 @@
+
 ->**********************************01_Flyod.txt
 CHAPTER 1 Introductory Concepts 15
 1-1 Digital and Analog Quantities 16
@@ -160,7 +161,8 @@ CHAPTER 15 Integrated Circuit Technologies 855
 15-7 PMOS, NMOS, and E2CMOS 883
 ANSWERS TO ODD-NUMBERED PROBLEMS A-1
 GLOSSARY A-31
-INDEX A-42->**********************************02_Tocci.txt
+INDEX A-42
+->**********************************02_Tocci.txt
 CHAPTER 1 Introductory Concepts
 Introduction to Digital 1s and Os 4
 Digital Signals 9
@@ -807,11 +809,11 @@ Glossary 962
 Answers to Selected Problems 975
 Index of ICs 983
 Index 986
+
 ->**********************************03_Roth.txt
-Preface xiii
-How to Use This Book for Self-Study xviii
-Digital Resources xix
-About the Authors xxiv
+How to Use This Book for Self-Study
+Digital Resources 
+About the Authors 
 Unit 1 Introduction
 Number Systems and Conversion 1
 Objectives 1
@@ -833,12 +835,8 @@ Study Guide 30
 2.1 Introduction 36
 2.2 Basic Operations 37
 2.3 Boolean Expressions and Truth Tables 39
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-vi Contents
 2.4 Basic Theorems 41
-2.5 Commutative, Associative, Distributive, and
-DeMorgan’s Laws 43
+2.5 Commutative, Associative, Distributive, and DeMorgan’s Laws 43
 2.6 Simplification Theorems 46
 2.7 Multiplying Out and Factoring 49
 2.8 Complementing Boolean Expressions 52
@@ -870,9 +868,6 @@ Objectives 123
 Study Guide 124
 5.1 Minimum Forms of Switching Functions 134
 5.2 Two- and Three-Variable Karnaugh Maps 136
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-Contents vii
 5.3 Four-Variable Karnaugh Maps 141
 5.4 Determination of Minimum Expressions Using
 Essential Prime Implicants 144
@@ -906,9 +901,6 @@ Determination of Essential Prime Implicants for
 Multiple-Output Realization 216
 7.7 Multiple-Output NAND- and NOR-Gate Circuits 217
 Problems 218
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-viii Contents
 Unit 8 Combinational Circuit Design
 and Simulation Using Gates 225
 Objectives 225
@@ -944,8 +936,6 @@ Study Guide 295
 10.2 VHDL Models for Multiplexers 304
 10.3 VHDL Modules 306
 Four-Bit Full Adder 308
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
 Contents ix
 10.4 Signals and Constants 311
 10.5 Arrays 312
@@ -982,9 +972,6 @@ Counter Design Using D Flip-Flops 393
 12.5 Counter Design Using S-R and J-K Flip-Flops 395
 12.6 Derivation of Flip-Flop Input Equations—Summary 398
 Problems 402
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-x Contents
 Unit 13 Analysis of Clocked Sequential Circuits 412
 Objectives 412
 Study Guide 413
@@ -1021,9 +1008,6 @@ Implication Table 509
 15.8 Guidelines for State Assignment 523
 15.9 Using a One-Hot State Assignment 528
 Problems 531
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-Contents xi
 Unit 16 Sequential Circuit Design 545
 Objectives 545
 Study Guide 546
@@ -1058,9 +1042,6 @@ Study Guide 627
 18.3 Design of a Binary Divider 637
 Programmed Exercises 644
 Problems 648
-Copyright 2021 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
-Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-xii Contents
 Unit 19 State Machine Design with SM Charts 660
 Objectives 660
 Study Guide 661
@@ -1086,7 +1067,8 @@ D Proofs of Theorems 727
 E Answers to Selected Study Guide Questions and Problems 729
 References 785
 Index 786
-Description of the CD 792->**********************************04_Morris.txt
+Description of the CD 792
+->**********************************04_Morris.txt
 1. Preface ix
 1. 1 Digital Systems and Binary Numbers 1
 1. 1.1 Digital Systems 1
@@ -1211,7 +1193,8 @@ FPGAs 599
 8. 10.8 Symbol for RAM 621
 1. Appendix 624
 2. Answers to Selected Problems 638
-3. Index 683->**********************************05_Matin.txt
+3. Index 683
+->**********************************05_Matin.txt
 CAPÍTULO 1
 Álgebra de variables lógicas 1
 11 Variable lógica  2
@@ -1453,7 +1436,8 @@ Capítulo 8 378
 Capítulo 9 379
 Capítulo 10 381
 Bibliografía 383
-Índice analítico  385->**********************************06_Adan.txt
+Índice analítico  385
+->**********************************06_Adan.txt
 PREGUNTAS CORTAS 88
 CAPÍTULO 4 SISTEMAS COMBINACIONALES: MÓDULOS93
 CONTENIDOS 93
@@ -1472,7 +1456,8 @@ CAPÍTULO 7 SISTEMAS SECUENCIALES: MÓDULOS 305
 CONTENIDOS 305
 EJERCICIOS RESUELTOS 306
 TEST Y PREGUNTAS CORTAS 405
-CAPÍTULO 8 SOLUCIONES A TEST Y PREGUNTAS CORTAS 413->**********************************07_Barajas.txt
+CAPÍTULO 8 SOLUCIONES A TEST Y PREGUNTAS CORTAS 413
+->**********************************07_Barajas.txt
 ÍNDICE
 
 INTRODUCCIÓN 11
@@ -1590,7 +1575,8 @@ TECNOLOGÍAS DIGITALES203
 105 EL TRANSISTOR MOS212
 106 PUERTAS LÓGICAS NMOS 215
 107 PUERTAS LÓGICAS CMOS 217
-ÍNDICE ALFABÉTICO221->**********************************08_Velasquez.txt
+ÍNDICE ALFABÉTICO221
+->**********************************08_Velasquez.txt
 Presentación
 PARTE 1. Familias lógicas
 Puertas lógicas TTL
@@ -2215,7 +2201,8 @@ Herramienta de simulación para el diseño electrónico
 Enlaces web de interés
 Acrónimos
 Material suplementario
-Índice->**********************************09_Guapacha.txt
+Índice
+->**********************************09_Guapacha.txt
 Introducción xii
 ¿Cómo usar este libro? xv
 Nota aclaratoria xv
@@ -2306,7 +2293,8 @@ Lección 24 Suma 133
 Lección 25 Comparadores binarios 137
 Lección 26 Sistema de reloj (clock) 141
 Lección 27 Flip-flop 145
-Bibliografía 155->**********************************10_Julian.txt
+Bibliografía 155
+->**********************************10_Julian.txt
 Mensaje del editor IX
 Sobre el autor XI
 Prefacio XIX
@@ -2471,7 +2459,8 @@ D33 Transistores MOS  227
 D331 Modelo de Nivel 1  227
 D332 Modelos de Nivel 2 y 3 228
 D333 Modelo de Nivel 4  230
-Circuitos->**********************************11_Roy.txt
+Circuitos
+->**********************************11_Roy.txt
 Binary Number System 1
 1.1 Introduction 1
 1.2 Binary Number System 1
@@ -2866,7 +2855,8 @@ xxii Contents
 18.3.7 Communication Between Reconfigurable Modules 437
 18.4 Conclusion 441
 References 443
-Index 447->**********************************12_Urquia.txt
+Index 447
+->**********************************12_Urquia.txt
 Indice 5
 Listado de codigo VHDL 13
 1 Fundamentos del diseño del hardware digital 25
@@ -3334,7 +3324,8 @@ bits538
 7.12 Banco de pruebas del conversor de código BCD a binario540
 7.13 Declaración de las constantes globales del diseño542
 7.14 Circuito que calcula la exponenciación de dos números binarios sin signo542
-7.15 Banco de pruebas del circuito que calcula la exponenciación544->**********************************13_Brock.txt
+7.15 Banco de pruebas del circuito que calcula la exponenciación544
+->**********************************13_Brock.txt
 1: INTRODUCTION: ANALOG VERSUS DIGITAL  1
 11 DIFFERENCES BETWEEN ANALOG AND DIGITAL SYSTEMS  1
 12 ADVANTAGES OF DIGITAL SYSTEMS OVER ANALOG SYSTEMS  3
@@ -3604,7 +3595,8 @@ bits538
 1444 Modeling Floating-Point Division in Verilog  508
 APPENDIX A: LIST OF WORKED EXAMPLES  515
 APPENDIX B: CONCEPT CHECK SOLUTIONS  521
-INDEX  523->**********************************14_Wakerly.txt
+INDEX  523
+->**********************************14_Wakerly.txt
 Preface xv
 1 INTRODUCTION 1
 1.1 About Digital Design 1
@@ -3932,7 +3924,8 @@ xiv Contents
 15.5.4 Programmable Interconnect
 References 863
 Drill Problems 864
-Index 867->**********************************15_Ghosh.txt
+Index 867
+->**********************************15_Ghosh.txt
 Analog and Digital Signals 1–4
 Definitions
 Difference between analog and digital signals
@@ -4059,7 +4052,8 @@ Binary equivalent rate
 Binary Ladder
 A/D Converter
 Simultaneous, Counter Type, Continuous A/D converter, successive
-approximation method, single slope and dual slope A/D converter.->**********************************16_Raychaudhuri.txt
+approximation method, single slope and dual slope A/D converter.
+->**********************************16_Raychaudhuri.txt
 Preface xvii
 Chapter 1. Origin of Electronics 1
 1.1 What is Electronics 1
@@ -4523,7 +4517,8 @@ Chapter 17. Microcomputer and Microprocessor 637
 17.2 Computer, Microprocessor and Microcontroller 641
 17.2.1 Computer Organization 641
 17.2.2 Use of Microprocessor 643
-17.2.3 Use of Microcontroller 644->**********************************17_War.txt
+17.2.3 Use of Microcontroller 644
+->**********************************17_War.txt
 Chapter 1:​ Introduction to Logic Gates
 Integrated Circuits, or ICs
 Gate Technology
@@ -4749,7 +4744,8 @@ Summary
 Appendix:​ Appendix 1
 Appendix 2:​ Solutions for Exercises in the Chapters
 Appendix:​ Exercises
-Index->**********************************18_Tokheim.txt
+Index
+->**********************************18_Tokheim.txt
 Preface ix
 Acknowledgments x
 Walkthrough xii
@@ -5053,6 +5049,7 @@ Appendix A Solder and the Soldering Process 546
 Appendix B 2s Complement Conversions 551
 Glossary of Terms and Symbols 552
 Index 566
+
 ->**********************************19_Maini.txt
 Number Systems and Codes 1
 Learning Objectives 1
@@ -5614,7 +5611,8 @@ Review Questions 564
 Problems 565
 Objective Type Exercises 565
 Answers 567
-Index 569->**********************************20_Varela.txt
+Index 569
+->**********************************20_Varela.txt
 PREFACIO 1
 Capítulo 1
 INTRODUCCIÓN 3
@@ -5659,6 +5657,7 @@ ANÁLISIS COMBINACIONAL 93
 Apéndice 2
 TRANSISTORES 101
 REFERENCIA 104
+
 ->**********************************21_Ndjountche.txt
 Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
 Chapter 1. Number Systems . . . . . . . . . . . . . . . . . . . . . . . . . . 1
@@ -5759,7 +5758,8 @@ defined functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 4.5. Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
 4.6. Solutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
 Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
-Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259->**********************************22_Kani.txt
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+->**********************************22_Kani.txt
 Preface vii
 Chapter 1: Introduction to Digital Systems 1.1-1.6
 1.1 Analog and Digital Electronics 1.1
@@ -6260,7 +6260,8 @@ APPENDIX 11: Data Types and Operators in VHDL A.22
 APPENDIX 12: Keywords in Verilog A.24
 APPENDIX 13: Operators and Net Data Types in Verilog A.25
 University Question Papers Q.1–Q.48
-Index I.1–I.6->**********************************23_Groote.txt
+Index I.1–I.6
+->**********************************23_Groote.txt
 1 Basic components and combinatorial circuits 1
 1.1 The three basic logic gates 1
 1.2 Other logic gates 4
@@ -6406,6 +6407,7 @@ D.7 Answers for Chapter 7 244
 D.8 Answers for Chapter 8 245
 References 247
 Index 249
+
 ->**********************************24_El-Sheikh.txt
 Preface
 1- Introduction
@@ -6634,6 +6636,7 @@ E.2 Integrated Circuits Pin Configuration
 Appendix-F: List of 4000 Series Integrated Circuits 307
 F.1 Integrated Circuits Functioning
 F.2 Integrated Circuits Pin Configuration
+
 ->**********************************25_Mazumder.txt
 Preface xi
 Acknowledgement xv
@@ -6642,26 +6645,26 @@ List of Tables xxix List of Abbreviations xxxi 1 Introduction 1
 11 Objectives  1
 111 Equationrepresentation  1
 112 Hardware platform implementation  3
-113 Sequentialdesign  4
-114 Datapathcomponents 6
-115 Backendlectures  6
-12 AnalogvsDigital 7
-13 DigitalDesign 11
-131 Levelsofdigitaldesign 12
-132 Whatdodigitaldesignersdo?  13
+113 Sequential design  4
+114 Data path components 6
+115 Backend lectures  6
+12 Analog vs Digital 7
+13 Digital Design 11
+131 Levels of digital design 12
+132 What do digital designers do?  13
 2 Numeral Systems and BCD codes 17
 21 Introduction 18
-211 Unarynumeralsystems 18
+211 Unary numeral systems 18
 212 The positional numeral system, or the place-value system  19
-2121 Binarynumbers  19
+2121 Binary numbers  19
 2122 Hexadecimal numbers  20
 2123 Octalnumbers  20
 2124 Converting from decimal to different bases 21
 2125 Converting from one arbitrary base (p) to anotherarbitrarybase(q)  22
 22 Addition and Subtraction in the Positional Numeral System  24
-23 NegativeNumbersinBinary  26
-231 Signedmagnitude  26
-232 The1’scomplement  28
+23 Negative Numbers in Binary  26
+231 Signed magnitude  26
+232 The 1’s complement  28
 2321 Addition in the 1’s complement  30
 2322 Subtraction in the 1’s complement  31
 233 The2’scomplement  32
@@ -6673,19 +6676,19 @@ List of Tables xxix List of Abbreviations xxxi 1 Introduction 1
 243 Thebiquinarycode  39
 244 Thegraycode 39
 245 BCDsummary  43
-25 MoreonNumberSystems  44
+25 More on Number Systems  44
 26 ConclusionandKeyPoints  46
 3 Boolean Algebra and Logic Gates 51
 31 Motivation 52
 32 HuntingtonPostulates 52
-33 BasicTheoremsofBooleanAlgebra  53
-331 Basicpostulateswith0and1 53
-332 Idempotentlaws  54
-333 TheLawofinvolution  54
-334 Complementaritylaws  54
-335 Commutativelaws  55
-336 Associativelaws  55
-337 Distributivelaws  55
+33 Basic Theorems of Boolean Algebra  53
+331 Basic postulates with 0 and 1 53
+332 Idempotent laws  54
+333 The Law of involution  54
+334 Complementarity laws  54
+335 Commutative laws  55
+336 Associative laws  55
+337 Distributive laws  55
 338 DeMorgan’slaws  56
 34 Duality  59
 341 What you should know from duality  60

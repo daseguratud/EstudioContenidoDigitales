@@ -1,26 +1,27 @@
 import os
 from .Parameters import Parameters
 class Consolidar:
-    
-    def UnirArchivos(self):
-        nombreArchivos = self.__ListarArchivos()
-        self.__ClearOutputPutFile()
+    @staticmethod
+    def UnirArchivos():
+        nombreArchivos = Consolidar.__ListarArchivos()
+        Consolidar.__ClearOutputPutFile()
         for nombreArchivo in nombreArchivos:
-            with open(Parameters.inputPath+nombreArchivo,'r') as archivo:
-                contenido = f"->**********************************{nombreArchivo}\n{archivo.read()}"
-                self.__AppendOutputFile(contenido)
-
-    def __ListarArchivos(self):
-        listado = os.listdir(Parameters.inputPath)
+            with open(Parameters.contenidosOriginalesPath+nombreArchivo,'r') as archivo:
+                contenido = f"\n->**********************************{nombreArchivo}\n{archivo.read()}"
+                Consolidar.__AppendOutputFile(contenido)
+    
+    @staticmethod
+    def __ListarArchivos():
+        listado = os.listdir(Parameters.contenidosOriginalesPath)
         listado.sort()
         return listado
-    def __AppendOutputFile(self, contenido):
-        if not os.path.exists(Parameters.outPath):
-            os.makedirs(Parameters.outPath)
-        with open(Parameters.getOutFile(),"a") as file:
+    @staticmethod
+    def __AppendOutputFile(contenido):
+        if not os.path.exists(Parameters.contenidosUnificadosPath):
+            os.makedirs(Parameters.contenidosUnificadosPath)
+        with open(Parameters.getOutFileConsolidados(),"a") as file:
             file.write(contenido)
-    def __ClearOutputPutFile(self):
-        if not os.path.exists(Parameters.outPath):
-            os.makedirs(Parameters.outPath)
-        if os.path.exists(Parameters.getOutFile()):
-            os.remove(Parameters.getOutFile())
+    @staticmethod
+    def __ClearOutputPutFile():
+        Parameters.CreatePath(Parameters.contenidosUnificadosPath)
+        Parameters.CreateFile(Parameters.getOutFileConsolidados())
