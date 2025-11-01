@@ -1,5 +1,5 @@
 
-->**********************************01_Flyod.txt
+->**********************************01_Flyod_en.txt
    introductory concepts 
   digital and analog quantities 
   binary digits  logic levels  and digital waveforms 
@@ -162,7 +162,7 @@ on website  http   wwwpearsonglobaleditionscom floyd
 answers to odd numbered problems a 
 glossary a 
 index a 
-->**********************************02_Tocci.txt
+->**********************************02_Tocci_en.txt
    introductory concepts
 introduction to digital s and os 
 digital signals 
@@ -810,7 +810,7 @@ answers to selected problems
 index of ics 
 index 
 
-->**********************************03_Roth.txt
+->**********************************03_Roth_en.txt
 how to use this book for self study
 digital resources 
 about the authors 
@@ -1068,7 +1068,7 @@ e answers to selected study guide questions and problems
 references 
 index 
 description of the cd 
-->**********************************04_Morris.txt
+->**********************************04_Morris_en.txt
  preface ix
   digital systems and binary numbers 
   digital systems 
@@ -1194,237 +1194,237 @@ fpgas
  appendix 
  answers to selected problems 
  index 
-->**********************************05_Matin.txt
+->**********************************05_Matin_en.txt
   
-álgebra de variables lógicas 
- variable lógica  
- álgebra de boole 
- teoremas básicos del álgebra de boole  
- funciones booleanas  
- funciones lógicas utilizadas en electrónica digital  
- función and  •   
- función or  +  
- función inversión o not  􀀐   
- función nand 
- función nor 
- función or exclusiva xor  􀂆   
- función nor exclusiva  xnor   
- circuitos combinacionales  
- simplificación de funciones lógicas 
- simplificación algebraica  
- tablas de karnaugh  
- funciones incompletas  
-ejercicios  
+algebra of logical variables 
+ logical variable 
+ boolean algebra 
+ basic theorems of boolean algebra 
+ boolean functions 
+ logic functions used in digital electronics 
+ and function  •  
+ or  +   function
+ inversion function or not  ɡ  
+ nand function 
+ nor function 
+ exclusive or function
+ exclusive nor  xnor  function 
+ combinational circuits 
+ simplification of logical functions 
+ algebraic simplification 
+ karnaugh tables 
+ incomplete functions 
+exercises 
   
-sistemas numéricos y aritmética binaria  
- sistemas numéricos  
- sistema binario 
- sistema hexadecimal y octal  
- códigos numéricos binarios  
- códigos alfanuméricos 
-x electrónica digital
- códigos detectores de error  
- códigos correctores de error 
- operaciones aritméticas con números binarios  
- suma binaria 
- resta binaria 
- representación de los números negativos  
- multiplicación y división binarias 
- operaciones aritméticas con otros códigos 
- suma bcd  
- resta bcd 
- multiplicación y división bcd  
- suma hexadecimal  
- resta hexadecimal 
-ejercicios 
+number systems and binary arithmetic 
+ number systems 
+ binary system 
+ hexadecimal and octal system 
+ binary numerical codes 
+ alphanumeric codes 
+x digital electronics
+ error detector codes 
+ error correcting codes 
+ arithmetic operations with binary numbers 
+ binary sum 
+ binary subtraction 
+ representation of negative numbers 
+ binary multiplication and division 
+ arithmetic operations with other codes 
+ sum bcd 
+ subtraction bcd 
+ multiplication and division bcd 
+ hexadecimal addition 
+ hexadecimal subtraction 
+exercises 
   
-circuitos combinacionales aritméticos  
- diseño de circuitos combinacionales 
- sumador binario 
- semisumador  half adder  
- sumador completo  full adder  
- circuito sumador completo integrado 
- sumador paralelo  
- sumador paralelo con llevada en serie 
- sumador paralelo con llevada en paralelo  
- sumador paralelo con llevada en paralelo aplicado a grupos  
- circuitos sumadores integrados  
- sumador bcd 
- restador binario 
- restador completo 
- restador binario de varios bits 
- circuitos restadores integrados  
- sumador restador  
- unidad aritmético lógica 
- unidades aritmético lógicas integradas  
- unidad de arrastre anticipado  
-ejercicios 
+arithmetic combinational circuits 
+ design of combinational circuits 
+ binary adder 
+ half adder 
+ full adder 
+ integrated full adder circuit 
+ parallel adder 
+ parallel adder with serial carry 
+ parallel adder with parallel carry 
+ parallel adder with parallel carry applied to groups 
+ integrated adding circuits 
+ bcd adder 
+ binary subtractor 
+ complete subtractor 
+ multi bit binary subtractor 
+ integrated subtraction circuits 
+ adder subtractor 
+ arithmetic logic unit 
+ integrated arithmetic logical units 
+ advance drive unit 
+exercises 
   
-circuitos combinacionales lógicos 
- generador detector de paridad 
- bit de paridad  
- circuito generador detector de paridad  ls 
- comparadores binarios de magnitud  
- comparadores integrados  ls 
-contenido xi
- multiplexor 
- circuitos integrados multiplexores 
- extensión del multiplexor 
- utilización del multiplexor para la generación de funciones  
- codificadores  
- codificadores de prioridad  
- codificadores de prioridad integrados 
- ampliación de los codificadores de prioridad 
- decodificadores 
- el decodificador como demultiplexor de datos 
- circuitos integrados decodificadores demultiplexores  
- ampliación del decodificador demultiplexor 
- conjunto multiplexor demultiplexor para transferencia de datos 
- el decodificador como generador de funciones lógicas 
- conversores de código  
- conversor bcd a  segmentos 
- conversor bcd a binario y binario a bcd 
- bus de datos  
- salida triestado  
- buffer triestado  
+combinational logic circuits 
+ parity generator detector 
+ parity bit 
+ parity generator detector circuit  ls 
+ binary comparators of magnitude 
+ integrated comparators  ls 
+content xi
+ multiplexer 
+ multiplexer integrated circuits 
+ multiplexer extension 
+ using the multiplexer for function generation 
+ encoders 
+ priority encoders 
+ integrated priority encoders 
+ expansion of priority encoders 
+ decoders 
+ the decoder as a data demultiplexer 
+ decoder demultiplexer ics 
+ expansion of the decoder demultiplexer 
+ multiplexer demultiplexer set for data transfer 
+ the decoder as a generator of logical functions 
+  code converters
+ bcd to  segment converter 
+ bcd to binary and binary to bcd  converter
+ data bus 
+ tristate output 
+ tristate buffer 
  transceivers 
-ejercicios  
+exercises 
   
-circuitos integrados digitales 
- clasificación de los circuitos integrados 
- según el tipo de señales que manejan  
- según la construcción interna 
- según el material del substrato 
- según el número de transistores  
- según la resolución utilizada en el diseño de dispositivos 
- según la metodología de diseño  
- según el tipo de dispositivos activos utilizados  
- según la forma de construir las puertas digitales  
- nomenclatura de los circuitos integrados  
- encapsulado 
- características eléctricas  
- tensión de alimentación 
- tensiones lógicas de entrada y salida 
- margen de ruido 
- corrientes de entrada y salida 
- tiempos de conmutación 
- potencia disipada  
- consideraciones especiales  
- la electricidad estática  
- desacoplo de alimentaciones  
- fenómeno de latch up  
-xii electrónica digital
- entradas y salidas digitales especiales 
- buffer  
- schmitt trigger o disparador schmitt 
- salida colector abierto  
- conexión de circuitos digitales 
- resistencias de pull up y pull down  
- conexión de familias lógicas distintas 
- conexión de circuitos a diferentes tensiones de alimentación 
-ejercicios 
+digital integrated circuits 
+ classification of integrated circuits 
+ depending on the type of signals they handle 
+ according to internal construction 
+ depending on substrate material 
+ according to the number of transistors 
+ depending on the resolution used in device design 
+ according to the design methodology 
+ depending on the type of active devices used 
+ depending on the way digital doors are constructed 
+ nomenclature of integrated circuits 
+ encapsulated 
+ electrical characteristics 
+ supply voltage 
+ logic input and output voltages 
+ noise margin 
+ input and output currents 
+ switching times 
+ power dissipated 
+ special considerations 
+ static electricity 
+ power supply decoupling 
+ latch up phenomenon 
+xii digital electronics
+ special digital inputs and outputs 
+ buffer 
+ schmitt trigger or schmitt trigger 
+ open collector output 
+ connecting digital circuits 
+ pull up and pull down resistors 
+ connection of different logical families 
+ connection of circuits at different supply voltages 
+exercises 
   
-circuitos secuenciales 
- báscula rs 
- báscula rs con puertas nor  
- báscula rs con puertas nand  
- circuitos integrados y aplicaciones 
- flip flop síncrono  
- flip flop rs síncrono 
- flip flop rs síncrono con entradas asíncronas 
- flip flop rs maestro esclavo 
- otros flip flops 
- flip flop d disparado por nivel 
- flip flop d disparado por flanco 
- el flip flop d en los circuitos integrados  
- el flip flop t  
- el flip flop jk  
- el flip flop jk en los circuitos integrados  
- parámetros característicos de los flip flops  
- circuitos secuenciales 
- tipos de circuitos secuenciales  
- tipos de circuitos secuenciales síncronos 
- síntesis de circuitos secuenciales síncronos  
- análisis de circuitos secuenciales síncronos  
- otros métodos de diseño 
- diseño de sistemas complejos  
- consideraciones generales de diseño 
-ejercicios 
+sequential circuits 
+ rs  scale
+ rs scale with nor  doors
+ rs scale with nand gates 
+ integrated circuits and applications 
+ synchronous flip flop 
+ rs synchronous flip flop 
+ synchronous rs flip flop with asynchronous inputs 
+ flip flop rs master slave 
+ other flip flops 
+ d flip flop triggered by level 
+ edge triggered d flip flop 
+ the d flip flop in integrated circuits 
+ the t  flip flop
+ the jk  flip flop
+ the jk flip flop in integrated circuits 
+ characteristic parameters of flip flops 
+ sequential circuits 
+ types of sequential circuits 
+ types of synchronous sequential circuits 
+ synthesis of synchronous sequential circuits 
+ analysis of synchronous sequential circuits 
+ other design methods 
+ design of complex systems 
+ general design considerations 
+exercises 
   
-registros y contadores 
- registros  
- registros de almacenamiento 
- registros de desplazamiento 
- contadores  
- contador asíncrono binario 
- contador asíncrono decimal 
- contador síncrono binario 
- contador síncrono decimal  
-contenido xiii
- contador síncrono reversible 
- contadores con protección antibloqueo  
- contadores síncronos basados en registros de desplazamiento  
- contadores digitales integrados 
- ampliación de contadores  
- aplicaciones de registros y contadores  
-ejercicios  
+registers and counters 
+ records 
+ storage records 
+ shift registers 
+ counters 
+ binary asynchronous counter 
+ decimal asynchronous counter 
+ binary synchronous counter 
+ decimal synchronous counter 
+contents xiii
+ reversible synchronous counter 
+ counters with anti blocking protection 
+ shift register based synchronous counters 
+ integrated digital counters 
+ expansion of meters 
+ register and counter applications 
+exercises 
   
-lógica programable por el usuario  
- circuitos lógicos programables 
- ventajas e inconvenientes de los circuitos lógicos programables  
- diseño con circuitos estándar frente a diseño con circuitos
-lógicos programables  
- diseño con circuitos de aplicación específica  asic  frente
-a diseño con circuitos programables 
- circuitos lógicos programables de tipo pld  
- estructura prom  
- estructura pla  
- estructura pal  
- estructura de entrada salida 
- estructura de los plds actuales  
- circuitos lógicos programables de tipo fpga  
- comparación pld fpga  
- técnicas de diseño con circuitos lógicos programables  
- diseño lógico 
- compilación 
- simulación  
- programación 
- conclusiones  
-ejercicios  
+user programmable logic 
+ programmable logic circuits 
+ advantages and disadvantages of programmable logic circuits 
+ design with standard circuits vs design with circuits
+programmable logic 
+ design with application specific circuits  asic  front
+to design with programmable circuits 
+ pld  type programmable logic circuits
+ prom structure 
+ pla structure 
+ pal structure 
+ input output structure 
+ structure of the current plds 
+ fpga type programmable logic circuits 
+ pld fpga comparison 
+ design techniques with programmable logic circuits 
+ logical design 
+ compilation 
+ simulation 
+ programming 
+ conclusions 
+exercises 
   
-memorias  
- memorias de acceso aleatorio  ram   
- características generales 
- memorias de lectura escritura  
- memorias de sólo lectura  rom  
- memorias ram no volátiles  nvram  
- agrupación de memorias 
- memorias de acceso secuencial  
- fifos  
+memories 
+ random access memories  ram  
+ general characteristics 
+ read write memories 
+ read only memories  rom  
+ non volatile ram memories  nvram  
+ memory grouping 
+ sequential access memories 
+ fifos 
  lifos 
- aplicaciones  
+ applications 
  luts  look up tables  
- sincronización de sistemas 
-ejercicios  
-xiv electrónica digital
+ systems synchronization 
+exercises 
+xiv digital electronics
   
-convertidores analógico digital  digital analógicos  
- el teorema de nyquist 
- convertidor digital analógico  dac  
- convertidor d a con resistencias ponderadas 
- convertidor d a con red r r en escalera 
- convertidor d a en escalera invertida 
- parámetros de los convertidores d a 
- convertidor analógico digital 
- convertidor a d con comparadores  
- convertidor a d de aproximaciones sucesivas  
- convertidor a d con contadores  
- convertidor a d de doble rampa 
- convertidor a d de ancho de rampa  
- convertidor a d 􀄱􀄯  
- parámetros de los convertidores a d 
-ejercicios 
-respuestas a los ejercicios 
+analog digital  digital analog converters 
+ nyquist's theorem 
+ digital to analog converter  dac  
+ d a converter with weighted resistors 
+ d a converter with r r network on  ladder
+ inverted ladder d a converter 
+ parameters of d a converters 
+ analog digital converter 
+ a d converter with comparators 
+ successive approximation a d converter 
+ a d converter with counters 
+ dual ramp a d converter 
+ ramp width a d converter 
+ a d converter 
+ parameters of a d converters 
+exercises 
+answers to exercises 
    
    
    
@@ -1435,1032 +1435,1036 @@ respuestas a los ejercicios
    
    
    
-bibliografía 
-índice analítico  
-->**********************************06_Adan.txt
-preguntas cortas 
-   sistemas combinacionales  módulos
-contenidos 
-ejercicios resueltos 
-test y preguntas cortas 
-   circuitos aritméticos y lógicos 
-contenidos 
-ejercicios resueltos 
-test y preguntas cortas 
- circuitos digitales problemas y ejercicios resueltos © ra ma
-   sistemas secuenciales  biestables 
-contenidos 
-ejercicios resueltos 
-test y preguntas cortas 
-   sistemas secuenciales  módulos 
-contenidos 
-ejercicios resueltos 
-test y preguntas cortas 
-   soluciones a test y preguntas cortas 
-->**********************************07_Barajas.txt
-índice
+bibliography 
+analytical index 
 
-introducción 
+->**********************************06_Adan_en.txt
+short questions 
+   combinational systems  modules
+contents 
+solved exercises 
+test and short questions 
+   arithmetic and logical circuits 
+contents 
+solved exercises 
+test and short questions 
+ digital circuits solved problems and exercises © ra ma
+   sequential systems  flip ups 
+contents 
+solved exercises 
+test and short questions 
+   sequential systems  modules 
+contents 
+solved exercises 
+test and short questions 
+   solutions to test and short questions 
 
-  
-
-introducción a los sistemas digitales
- sistemas analógicos y digitales
- sistemas binarios 
- sistemas combinacionales y secuenciales
- representación de la información en los sistemas binarios
- sistemas de numeración
- el sistema binario 
- conversión entre los sistemas binario y decimal 
- sistemas octal y hexadecimal
- códigos binarios
+->**********************************07_Barajas_en.txt
+index
+introduction 
 
   
 
-álgebra de boole y puertas lógicas
- postulados y propiedades fundamentales del álgebra de
+introduction to digital systems
+ analog and digital systems
+ binary systems 
+ combinational and sequential systems
+ representation of information in binary systems
+ numbering systems
+ the binary system 
+ conversion between binary and decimal systems 
+ octal and hexadecimal systems
+ binary codes
+
+  
+
+boole algebra and logical gates
+ postulates and fundamental properties of the algebra of
 boole 
- funciones y expresiones booleanas
- tablas de verdad funciones lógicas
- representación en forma canónica de una función booleriana
- simplificación de funciones lógicas
- paso de formas no canónicas a canónicas 
- funciones lógicas con formas incompletas
- implementación de funciones con puertas lógicas
- funciones múltiples 
+ boolean functions and expressions
+ truth tables logical functions
+ representation in canonical form of a boolean function
+ simplification of logical functions
+ transition from non canonical to canonical forms 
+ logical functions with incomplete forms
+ implementation of functions with logic gates
+ multiple functions 
 
   
 
-sistemas combinacionales
- análisis de circuitos combinacionales
- síntesis de circuitos combinacionales
- implementación con puertas and  or y not 
- implementación con puertas nand  y nor 
- codificadores 
- codificador con prioridad 
- decodificadores 
- implementación de funciones lógicas con decodificadores
- expansión de decodificadores
- multiplexores
- demultiplexores 
- implementación de funciones lógicas con multiplexores 
+combinational systems
+ analysis of combinational circuits
+ synthesis of combinational circuits
+ implementation with and  or and not gates 
+ implementation with nand gates  and nor 
+ encoders 
+ encoder with priority 
+ decoders 
+ implementation of logical functions with decoders
+ expansion of decoders
+ multiplexers
+ demultiplexers 
+ implementation of logic functions with multiplexers 
 
   
 
-circuitos aritméticos
- comparador de magnitud 
- sumador 
- semisumador
- sumador total 
- circuito sumador de n bits 
- acarreo serie y paralelo
- números negativos 
- suma de números negativos
- sumador restador 
- multiplicador
+arithmetic circuits
+ magnitude comparator 
+ adder 
+ half adder
+ total adder 
+ n bit adder circuit 
+ series and parallel carry
+ negative numbers 
+ addition of negative numbers
+ adder subtractor 
+ multiplier
 
   
 
-biestables y diseño síncrono
- biestables
- tipos de biestables 
- biestables síncronos 
- sr activo por nivel
- sincronismo por flanco 
- estructura maestro esclavo 
- tiempos significativos de conmutación
- biestables síncronos con entradas asíncronas
- tipos de biestables síncronos
- cronogramas 
+flip ups and synchronous design
+ flip offs
+ types of flip flops 
+ synchronous flip lops 
+ active sr per level 
+ synchronism per flange 
+ master slave structure 
+ significant switching times
+ synchronous flip flops with asynchronous inputs
+ types of synchronous flip flops
+ schedules 
 
   
 
-registros y contadores 
- registros
- registros serie paralelo
- salida triestado 
- registros paralelo
- contadores
- contadores asíncronos 
- contadores síncronos 
- inicialización 
- contadores basados en registros de desplazamiento
+records and accountants 
+ records
+ series parallel registers
+ tristate output 
+ parallel registers
+ counters
+ asynchronous counters 
+ synchronous counters 
+ initialization 
+ counters based on shift registers
 
   
 
-circuitos secuenciales
- síntesis de un circuito secuencial 
- máquinas de estado 
- análisis de un circuito secuencial 
-   memorias
- memorias ram y rom 
- estructura de las memorias 
- extensión de memoria
- síntesis de funciones lógicas con memorias 
+sequential circuits
+ synthesis of a sequential circuit 
+ state machines 
+ analysis of a sequential circuit 
+   memories
+ ram and rom memory 
+ structure of the reports 
+ memory extension
+ synthesis of logical functions with memories 
 
   
-
-lógica programable 
- planos de programación 
+programmable logic 
+ programming plans 
  pld  programmable logic devices 
- fpga s comerciales 
+ commercial fpga s 
 
   
 
-tecnologías digitales
- la unión pn
- el diodo
- el transistor bipolar 
- lógica ttl 
- el transistor mos
- puertas lógicas nmos 
- puertas lógicas cmos 
-índice alfabético
-->**********************************08_Velasquez.txt
-presentación
-parte  familias lógicas
-puertas lógicas ttl
-introducción
-estructura de una puerta ttl nand de dos entradas
-cargabilidad de salida de una puerta inversora ttl
-estimación analítica
-análisis mediante pspice
-características de transferencia
-puerta inversora ttl estándar
-puerta inversora  ci  
-puerta nand  ci  
-entradas flotantes en puertas ttl
-el riesgo potencial de las entradas flotantes
-¿qué hacer con las entradas no utilizadas 
-caracterización temporal
-parámetros característicos
-el oscilador en anillo
-componentes
-verificación experimental
-obtención de las tablas de verdad
-función lógica not  inversión 
-función lógica nand
-función lógica nor
-cargabilidad de salida
-estimación de la resistencia de salida de un dispositivo
-características de transferencia de un inversor
-característica de transferencia vs ve 
-característica de transferencia ie ve 
-entradas flotantes en una puerta nand  ci x 
-caracterización temporal  oscilador en anillo
-ejercicios y cuestiones de refuerzo
-puertas lógicas cmos
-introducción
-estructura de una puerta cmos nand de dos entradas
-cargabilidad de salida de una puerta cmos nand
-consideraciones preliminares
-análisis mediante pspice
+digital technologies
+ the union pn
+ the diode
+ the bipolar transistor 
+ ttl logic 
+ the mos transistor
+ nmos  logic gates
+ cmos logic gates 
+alphabetical index
 
-caso de estudio 
-caso de estudio 
-caso de estudio 
-cargabilidad del ci b
-características de transferencia
-entradas flotantes en puertas cmos
-componentes
-verificación experimental
-cargabilidad de salida
-características de transferencia de un inversor cmos
-característica de transferencia vs ve 
-característica de transferencia ie ve 
-entradas flotantes en una puerta nand  ci b 
-ejercicios y cuestiones de refuerzo
-parte  lógica combinacional
-decodificador binario básico de  a 
-introducción
-decodificador binario básico de  a 
-decodificación con salidas activas a nivel alto
-decodificación con salidas activas a nivel bajo
-simulación
-decodificación con salidas activas a nivel alto
-decodificación con salidas activas a nivel bajo
-componentes
-verificación experimental
-decodificación con salidas activas a nivel alto
-decodificación con salidas activas a nivel bajo
-ejercicios y cuestiones de refuerzo
-síntesis óptima de circuitos combinacionales
-introducción
-síntesis en forma de suma de productos  and or 
-síntesis en forma de producto de sumas  or and 
-síntesis de dos niveles nand nand
-síntesis de dos niveles nor nor
-síntesis multinivel con puertas nand de dos entradas
-análisis transitorio  fenómenos aleatorios
-tipos de fenómenos aleatorios
-fenómenos aleatorios de función
-eliminación de fenómenos aleatorios
-simulación
-análisis en régimen permanente
-análisis transitorio
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-codificador binario básico de  a 
-introducción
-codificador binario básico de  a  sin prioridad
-codificación con entradas activas a nivel alto
-codificación con entradas activas a nivel bajo
-codificador binario básico de  a  con prioridad
-codificación con entradas activas a nivel alto
-codificación con entradas activas a nivel bajo
-simulación
-circuitos codificadores de  a  sin prioridad
-codificación con entradas activas a nivel alto
-codificación con entradas activas a nivel bajo
-circuitos codificadores de  a  con prioridad
-codificación con entradas activas a nivel alto
-codificación con entradas activas a nivel bajo
-componentes
-verificación experimental
-codificación sin prioridad y entradas activas a nivel bajo
-codificación con prioridad y entradas activas a nivel bajo
-ejercicios y cuestiones de refuerzo
-circuitos comparadores  de paridad y conversores de código
-introducción
-circuitos aritméticos comparadores
-circuito generador y circuito detector de paridad
-circuitos conversores de código
-simulación
-circuito comparador
-circuito generador de paridad
-circuitos conversores de código
-componentes
-verificación experimental
-circuito comparador
-circuito generador de paridad
-circuitos conversores de código
-ejercicios y cuestiones de refuerzo
-decodificador binario de  a  con control de polaridad
-introducción
-decodificador binario básico de  a  con control de polaridad
-tres síntesis distintas con puertas nand de dos entradas
-síntesis con puertas nand de cualquier número de entradas
-síntesis basada en puertas xor
-simulación
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-detección de números primos con multiplexores
-introducción
-diseño de un detector bcd de números primos
-síntesis mediante puertas lógicas
-síntesis mediante un multiplexor  
-síntesis mediante un multiplexor  
-síntesis alternativa mediante un multiplexor  
-diseño de un detector de números primos de  bits
-síntesis mediante puertas lógicas
-síntesis mediante un multiplexor  
-síntesis mediante dos multiplexores  
-síntesis alternativa mediante un multiplexor  
-simulación
-detectores bcd de números primos con multiplexor
-síntesis mediante un multiplexor  
-síntesis mediante un multiplexor  
-síntesis alternativa mediante un multiplexor  
-detectores de números primos de  bits con multiplexor
-síntesis mediante un multiplexor  
-síntesis mediante dos multiplexores  
-síntesis alternativa mediante un multiplexor  
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-sumador completo y sumador binario en paralelo
-introducción
-circuito semisumador
-circuito sumador completo
-implementaciones de un sumador completo
-síntesis de dos niveles and or mediante pal
-síntesis de dos niveles nand nand
-dos síntesis de seis niveles con puertas básicas
-síntesis de cuatro niveles con puertas nand de tres entradas
-síntesis de dos niveles basada en puertas xor y nand
-síntesis de tres niveles basada en puertas xor y nand
-sumador binario en paralelo con acarreo serie
-simulación
-semisumador
-sumador completo
-sumador binario en paralelo de  bits con acarreo en serie
-propagación del acarreo y retardo asociado
-componentes
-verificación experimental
-semisumador
-sumador completo
-sumador binario en paralelo de  bits con acarreo en serie
-ejercicios y cuestiones de refuerzo
-unidad aritmética de  bits en complemento a dos
-introducción
-diseño de una unidad aritmética de  bits en c
-el sumador x
-la puerta xor como solución para implementar la resta
-el detector de desbordamiento
-unidad aritmética completa
-simulación
-módulo sumador
-módulo sumador restador
-unidad aritmética con detector de desbordamiento
-componentes
-verificación experimental
-módulo sumador
-módulo sumador restador
-unidad aritmética con detector de desbordamiento
-ejercicios y cuestiones de refuerzo
-parte  lógica secuencial síncrona
-generación de señal de reloj con circuitos astables
-introducción
-diseño de un multivibrador astable con puertas lógicas
-diseño de un multivibrador astable con el 
-simulación
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-contador de rizo módulo  con biestables t
-introducción
-dos implementaciones de un contador de rizo
-contador módulo  diseñado con biestables j   k
-contador módulo  diseñado con biestables d
-la problemática de los estados espurios
-simulación
-respuesta del contador diseñado con biestables j   k
-filtrado de los estados espurios mediante registro
-respuesta del contador diseñado con biestables d
-filtrado de los estados espurios mediante registro
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-contador de rizo módulo  con el x
-introducción
-diseño de un contador módulo  con el x
-la problemática de los estados espurios
-simulación
-secuencia de estados del contador módulo 
-filtrado de los estados espurios mediante registro
-decodificación de estados con el 
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-contador síncrono reversible módulo  con biestables j   k
-introducción
-diseño de un contador síncrono reversible módulo 
-simulación
-implementación del diseño con el ci 
-entrada de control s constante
-cambio de nivel lógico de s con señal de reloj en estado bajo
-cambio de nivel lógico de s con señal de reloj en estado alto
-conclusiones
-implementación del diseño con el ci lsa
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-contadores síncronos con el x
-introducción
-diseño de contadores con el x
-contador en modo de carrera libre  módulo  
-contador módulo  con la secuencia     
-contador módulo  con la secuencia     
-contador módulo  con la secuencia     
-simulación
-contador en modo de carrera libre  módulo  
-contador módulo  con la secuencia     
-contador módulo  con la secuencia     
-contador módulo  con la secuencia     
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-segundero digital con contadores modulares
-introducción
-tres diseños de un segundero con contadores síncronos
-combinación de dos x
-combinación de un x y un x
-combinación de un x y un x
-simulación
-componentes
-verificación experimental
-contador módulo   unidades del segundero 
-contador módulo   decenas del segundero 
-segundero digital completo
-ejercicios y cuestiones de refuerzo
-decodificación de los estados de un contador
-introducción
-decodificación de contadores modulares
-decodificación de un contador asíncrono
-decodificación de un contador síncrono
-riesgo de interferencias en las líneas decodificadas
-eliminación del riesgo de interferencias en la decodificación
-habilitación desfasada del decodificador
-filtrado mediante registro
-decodificación directa con un contador en anillo
-simulación
-decodificación de contadores x con dispositivos x
-decodificación de contadores x con dispositivos x
-eliminación del riesgo de interferencias en la decodificación
-habilitación desfasada del decodificador
-filtrado mediante registro
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-registro de desplazamiento de  bits con biestables d
-introducción
-diseño de un registro de desplazamiento de  bits
-simulación
-entrada serie y salida en paralelo
-entrada en paralelo y salida en paralelo
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-generador de números seudoaleatorios
-introducción
-generador seudoaleatorio de  bits
-generador seudoaleatorio de  bits
-simulación
-generador seudoaleatorio de  bits
-generador seudoaleatorio de  bits
-componentes
-verificación experimental
-generador seudoaleatorio de  bits
-generador seudoaleatorio de  bits
-ejercicios y cuestiones de refuerzo
-diseños con el registro de desplazamiento x
-introducción
-diseño secuencial basado en el x
-carga e inhibición
-el contador en anillo
-el contador johnson
-comunicación serie
-simulación
-carga e inhibición
-contador en anillo
-comunicación serie
-contador johnson
-comunicación serie
-componentes
-verificación experimental
-carga e inhibición
-contador en anillo y comunicación serie
-contador johnson y comunicación serie
-ejercicios y cuestiones de refuerzo
-autómatas de estados finitos de mealy y de moore
-introducción
-diseño secuencial según los modelos de mealy y de moore
-especificaciones
-diseño según el modelo de mealy
-diseño según el modelo de moore
-simulación
-autómata de estados finitos de mealy
-autómata de estados finitos de moore
-componentes
-verificación experimental
-ejercicios y cuestiones de refuerzo
-parte  lógica secuencial asíncrona
-biestables asíncronos
-introducción
-tres tipos de biestables asíncronos
-biestable asíncrono sin entradas
-biestable asíncrono s   r
-biestable asíncrono  
-simulación
-biestable asíncrono s   r
-respuesta ante secuencias de entrada permitidas
-respuesta ante secuencias de entrada no permitidas
-determinación de la anchura de pulso mínima
-biestable asíncrono  
-respuesta ante secuencias de entrada permitidas
-componentes
-verificación experimental
-biestable asíncrono sin entradas
-biestable asíncrono s   r
-biestable asíncrono  
-ejercicios y cuestiones de refuerzo
-circuitos antirrebotes con biestables asíncronos
-introducción
-la problemática de los rebotes en el diseño digital
-el biestable asíncrono como circuito antirrebotes
-circuito antirrebotes nor
-circuito antirrebotes nand
-circuito antirrebotes not
-detección del acceso a un aparcamiento
-simulación
-funcionamiento del circuito antirrebotes nand
-funcionamiento del circuito antirrebotes not
-componentes
-verificación experimental
-circuito antirrebotes nand
-circuito antirrebotes not
-ejercicios y cuestiones de refuerzo
-cerradura digital de combinación
-introducción
-diseño de un detector de secuencia de modo pulso
-especificaciones
-diseño según el modelo de mealy
-simulación
-componentes
-verificación experimental
-funcionamiento en ausencia de circuitos antirrebotes
-empleo de un biestable básico como circuito antirrebotes
-empleo de un biestable   como circuito antirrebotes
-ejercicios y cuestiones de refuerzo
-divisor de frecuencia asíncrono
-introducción
-diseño de un divisor de frecuencia por dos asíncrono
-especificaciones
-diseño según el modelo de moore
-simulación
-diseño con biestables asíncronos s   r
-diseño preliminar fallido basado en realimentación directa
-diseño correcto basado en realimentación directa
-componentes
-verificación experimental
-diseño con biestables asíncronos s   r
-diseño preliminar fallido basado en realimentación directa
-diseño correcto basado en realimentación directa
-ejercicios y cuestiones de refuerzo
-parte  aplicaciones de las funciones lógicas de uso común
-aplicaciones de la decodificación
-generación de minitérminos
-decodificación de líneas de dirección
-los circuitos de memoria y su capacidad de almacenamiento
-decodificación de direcciones de memoria en un computador
-decodificación de bcd a código de siete segmentos
-decodificación de los estados de un contador
-aplicaciones de la codificación
-gestión priorizada de interrupciones en un procesador
-codificación de un teclado numérico
-conversión analógico digital  el convertidor flash
-codificación de vídeo digital en formato analógico
-detección de errores con circuitos de paridad
-los errores de transmisión y su detección
-transmisión en paralelo con bits de paridad
-transmisión en serie con bits de paridad
-comprobación de redundancia vertical
-comprobación de redundancia horizontal
-comprobación de redundancia bidimensional
-otras técnicas de detección de errores
-aplicaciones aritméticas de comparadores y sumadores
-selector aritmético con señal de control externa
-el sumador completo en los circuitos multiplicadores
-el multiplicador matricial
-el multiplicador con acarreo reservado
-otros circuitos multiplicadores
-la alu como generalización del sumador modular
-tres circuitos alu y sus prestaciones
-la alu en los computadores
-aplicaciones de los contadores
-contador de pulsos en sistemas automatizados
-divisor de frecuencia
-reloj digital
-el temporizador digital
-sintetizador digital de formas de onda
-medidor de frecuencia
-el registro contador en los computadores
-el computador y su estructura interna
-el contador de programa
-el puntero de pila
-el registro contador de microprograma
-el registro de cuenta de datos en los controladores dma
-el registro contador cx de la arquitectura x
-aplicaciones de los registros de desplazamiento
-lógica de interfaz en la transmisión de datos digitales
-el papel del registro de desplazamiento en la codificación de voz
-tráfico de voz y datos en el bucle de abonado analógico
-revolución en el bucle de abonado  llega la fibra óptica
-transmisión serie síncrona
-transmisión serie asíncrona
-desplazamientos y rotaciones de bits
-el desplazador combinacional básico
-desplazadores circulares
-instrucciones de desplazamiento en ensamblador
-establecimiento de un retardo en secuencias de bits
-generación de secuencias seudoaleatorias
-detección de defectos en circuitos lógicos
-fuentes de ruido blanco
-aplicaciones del multiplexado
-generación de funciones lógicas
-multiplexado de entradas analógicas en microcontroladores
-barrido multiplexado de visualizadores dinámicos
-barrido multiplexado con dispositivos lógicos de función fija
-barrido multiplexado implementado en un microcontrolador
-barrido multiplexado con circuitos digitales configurables
-el multiplexado en la red telefónica conmutada
-sistema de transmisión pcm tdm de dos canales
-sistema de portadora digital t 
-jerarquía multinivel en la rtc
-multiplexado y demultiplexado en redes ópticas de acceso
-un nuevo paradigma de redes y servicios de comunicaciones
-parte  introducción al prototipado de sistemas empotrados
-estrategias para implementar un circuito digital
-la lógica normalizada de función fija y sus limitaciones
-el diseño lógico personalizado y su ámbito de aplicación
-visión general del diseño lógico semipersonalizado
-celdas normalizadas  celdas compiladas y macromódulos
-núcleos de propiedad intelectual  ip 
-implementación basada en matrices
-matrices de puertas
-matrices preconexionadas
-microcontroladores  fundamentos y plataformas de prototipado
-estructura y programación de microcontroladores
-el microcontrolador y sus recursos internos
-organización del acceso a la memoria
-el repertorio de instrucciones  arquitecturas cisc y risc
-del código fuente al código máquina
-el microcontrolador en los sistemas empotrados
-microcontroladores pic de microchip
-módulos electrónicos de programación
+->**********************************08_Velasquez_en.txt
+presentation
+part  logical families
+ttl logic gates
+introduction
+structure of a two input ttl nand gate
+output loadability of a ttl inverting gate
+analytical estimation
+analysis using pspice
+transfer features
+standard ttl inverting gate
+reversing door  ci  
+nand gate  ic  
+floating inputs on ttl gates
+the potential risk of floating entries
+what to do with unused tickets 
+temporal characterization
+characteristic parameters
+the ring oscillator
+components
+experimental verification
+obtaining truth tables
+not logic function  inversion 
+nand logic function
+nor logic function
+output loadability
+estimation of the output resistance of a device
+transfer characteristics of an inverter
+transfer characteristic vs ve 
+transfer characteristic ie ve 
+floating inputs on a nand gate  x ic 
+temporal characterization  ring oscillator
+exercises and reinforcement questions
+cmos logic gates
+introduction
+structure of a two input cmos nand gate
+output loadability of a cmos nand gate
+preliminary considerations
+analysis using pspice
+
+case study 
+case study 
+case study 
+ci b loadability
+transfer features
+floating inputs on cmos gates
+components
+experimental verification
+output loadability
+transfer characteristics of a cmos inverter
+transfer characteristic vs ve 
+transfer characteristic ie ve 
+floating inputs in a nand gate  ci b 
+exercises and reinforcement questions
+part  combinational logic
+basic  to  binary decoder
+introduction
+basic  to  binary decoder
+decoding with outputs active at high level
+decoding with outputs active at low level
+simulation
+decoding with outputs active at high level
+decoding with outputs active at low level
+components
+experimental verification
+decoding with outputs active at high level
+decoding with outputs active at low level
+exercises and reinforcement questions
+optimal synthesis of combinational circuits
+introduction
+synthesis in the form of sum of products  and or 
+synthesis in the form of a product of sums  or and 
+nand nand two level synthesis
+two level nor nor synthesis
+multilevel synthesis with two input nand gates
+transient analysis  random phenomena
+types of random phenomena
+random function phenomena
+elimination of random phenomena
+simulation
+analysis in steady state
+transient analysis
+components
+experimental verification
+exercises and reinforcement questions
+basic  to  binary encoder
+introduction
+basic  to  binary encoder without priority
+encoding with active inputs at high level
+encoding with active low level inputs
+basic  to  binary encoder with priority
+encoding with active inputs at high level
+encoding with active low level inputs
+simulation
+ to  encoder circuits without priority
+encoding with active inputs at high level
+encoding with active low level inputs
+ to  priority encoder circuits
+encoding with active inputs at high level
+encoding with active low level inputs
+components
+experimental verification
+non priority coding and active inputs at low level
+encoding with priority and active inputs at low level
+exercises and reinforcement questions
+comparator  parity and code converter circuits
+introduction
+comparator arithmetic circuits
+generator circuit and parity detector circuit
+code converter circuits
+simulation
+comparator circuit
+parity generator circuit
+code converter circuits
+components
+experimental verification
+comparator circuit
+parity generator circuit
+code converter circuits
+exercises and reinforcement questions
+ to  binary decoder with polarity control
+introduction
+basic  to  binary decoder with polarity control
+three different syntheses with two input nand gates
+synthesis with nand gates of any number of inputs
+xor gate based synthesis
+simulation
+components
+experimental verification
+exercises and reinforcement questions
+prime number detection with multiplexers
+introduction
+design of a bcd prime number detector
+synthesis using logic gates
+synthesis using a   multiplexer
+synthesis using an   multiplexer
+alternative synthesis using an   multiplexer
+design of a  bit prime number detector
+synthesis using logic gates
+synthesis using a   multiplexer
+synthesis using two   multiplexers
+alternative synthesis using an   multiplexer
+simulation
+bcd prime number detectors with multiplexer
+synthesis using a   multiplexer
+synthesis using an   multiplexer
+alternative synthesis using an   multiplexer
+ bit prime number detectors with multiplexer
+synthesis using a   multiplexer
+synthesis using two   multiplexers
+alternative synthesis using an   multiplexer
+components
+experimental verification
+exercises and reinforcement questions
+full adder and parallel binary adder
+introduction
+semi adding circuit
+full adder circuit
+full adder implementations
+two level and or synthesis using pal
+nand nand two level synthesis
+two six level syntheses with basic doors
+four level synthesis with three input nand gates
+two level synthesis based on xor and nand gates
+three level synthesis based on xor and nand gates
+parallel binary adder with serial carry
+simulation
+semi adder
+full adder
+ bit parallel binary adder with serial carry
+carry propagation and associated delay
+components
+experimental verification
+semi adder
+full adder
+ bit parallel binary adder with serial carry
+exercises and reinforcement questions
+ bit two's complement arithmetic unit
+introduction
+design of a  bit arithmetic unit in c
+the x adder
+the xor gate as a solution to implement subtraction
+the overflow detector
+complete arithmetic unit
+simulation
+adder module
+adder subtractor module
+arithmetic unit with overflow detector
+components
+experimental verification
+adder module
+adder subtractor module
+arithmetic unit with overflow detector
+exercises and reinforcement questions
+part  synchronous sequential logic
+clock signal generation with astable circuits
+introduction
+design of an astable multivibrator with logic gates
+design of an astable multivibrator with the 
+simulation
+components
+experimental verification
+exercises and reinforcement questions
+module  curl counter with t flip flops
+introduction
+two implementations of a ripple counter
+module  counter designed with j   k flip flops
+module  counter designed with d flip flops
+the problem of spurious states
+simulation
+response of the counter designed with j   k flip flops
+filtering spurious states using logging
+response of the counter designed with d flip flops
+filtering spurious states using logging
+components
+experimental verification
+exercises and reinforcement questions
+module  curl counter with x
+introduction
+design of a module  counter with the x
+the problem of spurious states
+simulation
+module  counter state sequence
+filtering spurious states using logging
+decoding states with 
+components
+experimental verification
+exercises and reinforcement questions
+module  reversible synchronous counter with j   k flip flops
+introduction
+design of a module  reversible synchronous counter
+simulation
+design implementation with ci 
+constant s control input
+s logic level change with clock signal low
+s logic level change with clock signal high
+conclusions
+design implementation with the lsa ic
+components
+experimental verification
+exercises and reinforcement questions
+synchronous counters with the x
+introduction
+counter design with the x
+counter in free run mode  module  
+module  counter with the sequence     
+module  counter with the sequence     
+counter module  with the sequence     
+simulation
+counter in free run mode  module  
+module  counter with the sequence     
+module  counter with the sequence     
+counter module  with the sequence     
+components
+experimental verification
+exercises and reinforcement questions
+digital second hand with modular counters
+introduction
+three designs of a seconds hand with synchronous counters
+combination of two x
+combination of a x and a x
+combination of a x and a x
+simulation
+components
+experimental verification
+module  counter  second hand units 
+module  counter  tens of the second hand 
+full digital seconds hand
+exercises and reinforcement questions
+decoding the states of a counter
+introduction
+decoding modular counters
+decoding an asynchronous counter
+decoding a synchronous counter
+risk of interference on decoded lines
+eliminating the risk of decoding interference
+outdated decoder enable
+filtering by registry
+direct decoding with a ring counter
+simulation
+decoding x counters with x devices
+decoding x counters with x devices
+eliminating the risk of decoding interference
+outdated decoder enable
+filtering by registry
+components
+experimental verification
+exercises and reinforcement questions
+ bit shift register with d flip flops
+introduction
+design of a  bit shift register
+simulation
+serial input and parallel output
+parallel input and parallel output
+components
+experimental verification
+exercises and reinforcement questions
+pseudorandom number generator
+introduction
+ bit pseudorandom generator
+ bit pseudorandom generator
+simulation
+ bit pseudorandom generator
+ bit pseudorandom generator
+components
+experimental verification
+ bit pseudorandom generator
+ bit pseudorandom generator
+exercises and reinforcement questions
+layouts with x shift register
+introduction
+sequential design based on the x
+charging and inhibition
+the ring counter
+accountant johnson
+serial communication
+simulation
+charging and inhibition
+ring counter
+serial communication
+accountant johnson
+serial communication
+components
+experimental verification
+charging and inhibition
+ring counter and serial communication
+johnson counter and serial communication
+exercises and reinforcement questions
+mealy and moore finite state automata
+introduction
+sequential design according to the mealy and moore models
+specifications
+design according to the mealy model
+design according to the moore model
+simulation
+mealy finite state automaton
+moore's finite state automaton
+components
+experimental verification
+exercises and reinforcement questions
+part  asynchronous sequential logic
+asynchronous flip flops
+introduction
+three types of asynchronous flip flops
+asynchronous flip flop without inputs
+asynchronous bistable s   r
+asynchronous bistable  
+simulation
+asynchronous bistable s   r
+response to allowed input sequences
+response to illegal input sequences
+determination of the minimum pulse width
+asynchronous bistable  
+response to allowed input sequences
+components
+experimental verification
+asynchronous flip flop without inputs
+asynchronous bistable s   r
+asynchronous bistable  
+exercises and reinforcement questions
+debounce circuits with asynchronous flip flops
+introduction
+the problem of bounces in digital design
+the asynchronous flip flop as a debounce circuit
+nor debounce circuit
+nand debounce circuit
+not debounce circuit
+parking access detection
+simulation
+operation of nand debounce circuit
+operation of the not debounce circuit
+components
+experimental verification
+nand debounce circuit
+not debounce circuit
+exercises and reinforcement questions
+digital combination lock
+introduction
+design of a pulse mode sequence detector
+specifications
+design according to the mealy model
+simulation
+components
+experimental verification
+operation in the absence of debounce circuits
+using a basic flip flop as a debounce circuit
+using a flip flop   as a debounce circuit
+exercises and reinforcement questions
+asynchronous frequency divider
+introduction
+design of a two fold asynchronous frequency divider
+specifications
+design according to the moore model
+simulation
+design with s   r asynchronous flip flops
+failed preliminary design based on direct feedback
+correct design based on direct feedback
+components
+experimental verification
+design with s   r asynchronous flip flops
+failed preliminary design based on direct feedback
+correct design based on direct feedback
+exercises and reinforcement questions
+part  applications of commonly used logic functions
+decoding applications
+generation of minterms
+decoding address lines
+memory circuits and their storage capacity
+decoding memory addresses in a computer
+decoding from bcd to seven segment code
+decoding the states of a counter
+coding applications
+prioritized management of interruptions in a processor
+coding a numeric keypad
+analog digital conversion  the flash converter
+digital video encoding in analog format
+error detection with parity circuits
+transmission errors and their detection
+parallel transmission with parity bits
+serial transmission with parity bits
+vertical redundancy check
+horizontal redundancy check
+two dimensional redundancy check
+other error detection techniques
+arithmetic applications of comparators and adders
+arithmetic selector with external control signal
+the full adder in multiplier circuits
+the matrix multiplier
+the multiplier with reserved carry
+other multiplier circuits
+the alu as a generalization of the modular adder
+three alu circuits and their features
+the alu in computers
+counter applications
+pulse counter in automated systems
+frequency divider
+digital clock
+the digital timer
+digital waveform synthesizer
+frequency meter
+the register counter in computers
+the computer and its internal structure
+the program counter
+the stack pointer
+microprogram register counter
+registering data count on dma controllers
+the cx register counter of the x architecture
+applications of shift registers
+interface logic in digital data transmission
+the role of shift register in speech coding
+voice and data traffic in the analog subscriber loop
+revolution in the subscriber loop  fiber optics arrives
+synchronous serial transmission
+asynchronous serial transmission
+bit shifts and rotations
+the basic combinational shifter
+circular shifters
+moving instructions in assembler
+setting a delay on bit streams
+generation of pseudorandom sequences
+detection of defects in logic circuits
+sources of white noise
+multiplexing applications
+generation of logical functions
+multiplexing of analog inputs in microcontrollers
+multiplexed scanning of dynamic displays
+multiplexed sweep with fixed function logic devices
+multiplexed scanning implemented on a microcontroller
+multiplexed scanning with configurable digital circuitry
+multiplexing in the switched telephone network
+two channel pcm tdm transmission system
+t  digital carrier system
+multi level hierarchy in the rtc
+multiplexing and demultiplexing in optical access networks
+a new paradigm of communications networks and services
+part  introduction to prototyping embedded systems
+strategies to implement a digital circuit
+normalized fixed function logic and its limitations
+custom logic design and its scope
+semi custom logic design overview
+normalized cells  compiled cells  and macromodules
+intellectual property  ip  cores
+array based implementation
+door matrices
+preconnected arrays
+microcontrollers  fundamentals and prototyping platforms
+structure and programming of microcontrollers
+the microcontroller and its internal resources
+organization of memory access
+the instruction set  cisc and risc architectures
+from source code to machine code
+the microcontroller in embedded systems
+microchip pic microcontrollers
+electronic programming modules
 pickittm  flash starter kit
 curiosity high pin count  hpc 
 picfq curiosity nano
-mplab xpress de propósito general
-microcontroladores en el ecosistema de arduino
-arduino diecimila y arduino duemilanove
-arduino uno  versiones r  r y r 
-módulos de expansión  los escudos
+mplab xpress general purpose
+microcontrollers in the arduino ecosystem
+arduino diecimila and arduino duemilanove
+arduino uno  versions r  r and r 
+expansion modules  shields
 arduino mega 
-arduino due y el salto a los  bits
+arduino due and the jump to  bits
 arduino nano  iot
 arduino uno r
-microcontroladores msp y c de texas instruments
+texas instruments msp and c microcontrollers
 msp exg launchpad
-ctm dimm experimenter s kit
-microcontroladores stm de stmicroelectronics
+ctm dimm experimenter's kit
+stm microcontrollers from stmicroelectronics
 blue pill
-la familia de plataformas de prototipado stm discovery
+the stm discovery family of prototyping platforms
 stmvldiscovery
 stmfdiscovery
 b ui iota discovery kit
-la familia de plataformas de prototipado stm nucleo
-plataformas representativas de la serie stm nucleo 
-plataformas representativas de la serie stm nucleo 
-perspectivas de futuro para los microcontroladores
-circuitos fpga  fundamentos y plataformas de prototipado
-estructura interna de los circuitos fpga
-arquitecturas multinivel en la lógica configurable
-módulos lógicos empotrados en un circuito fpga
-el reto del sincronismo
-organización de los bloques lógicos configurables
-lenguajes hdl para la simulación y la síntesis de circuitos
-circuitos fpga de las familias spartan e y artix  de xilinx
-circuitos fpga de la familia cyclone iv de altera
-una aplicación en el ámbito de la electrónica industrial
-circuitos fpga vs microcontroladores
-apéndices
-el laboratorio docente
-introducción
-la placa de prototipos
-la fuente de alimentación
-prestaciones y manejo
-cableado de la fuente con una carga genérica
-alimentación de la placa de prototipos
-desacoplo de la fuente de alimentación
-el polímetro
-el osciloscopio
-el osciloscopio analógico hm  de hameg instruments
-el osciloscopio digital mp de multicomp pro
-sondas de medida para osciloscopio
-el osciloscopio usb analog discovery  de digilent
-el comprobador de circuitos integrados
-notas sobre los montajes experimentales
-la instrumentación y su uso
-consejos prácticos
-componentes auxiliares
-errores comunes
-riesgos eléctricos
-introducción
-la conexión a tierra
-severidad de una electrocución
-identificación de pines en circuitos integrados
-numeración de pines en un ci
-identificación de pines en puertas lógicas
-identificación de pines en otros dispositivos integrados
-identificación de terminales en componentes optoelectrónicos
-terminales de un led y de una barra de luz led
-terminales de un visualizador de siete segmentos
-identificación de terminales en componentes eléctricos
-terminales de un potenciómetro rotatorio
-terminales de un condensador electrolítico
-terminales de un interruptor spdt de palanca basculante
-terminales de un interruptor spdt de actuador deslizante
-valores estándar de resistencias y condensadores
-código de colores para resistencias
-valores estándar de resistencias
-valores estándar de condensadores
-notas de simulación
-introducción
-guía rápida de pspice
-creación de un proyecto
-dibujo de un circuito en la ventana de esquemáticos
-perfil de simulación y ejecución
-el editor de modelos de pspice
-conexión de un bus a un circuito
-vinculación de un estímulo a un bus
-inicialización de biestables
-ubicación de componentes en bibliotecas
-listado de todos los componentes utilizados
-fuentes de tensión y estímulos digitales
-semiconductores discretos
-dispositivos integrados con modelo de simulación
-dispositivos integrados sin modelo de simulación
-otros componentes
-notas sobre el álgebra de conmutación
-introducción
-postulados y teoremas del álgebra de conmutación
-funciones lógicas xor y xnor
-bibliografía
-monografías
-artículos de investigación
-información técnica de los fabricantes
-circuitos integrados de función fija  general 
-puertas lógicas
-decodificadores
-multiplexor
-generador de paridad
-sumador
-unidades aritmético lógicas  circuitos alu 
-temporizador
-biestables asíncronos
-biestables síncronos
-contadores
-registros
-circuitos de memoria rom y ram
-microprocesadores
-microcontroladores
-placas de desarrollo basadas en microcontrolador
-lógica digital configurable  circuitos cpld y fpga 
-placas de desarrollo basadas en circuitos fpga
-codificadores de vídeo
-conversor a d
-generadores de señal
-diodos luminiscentes  ledes 
-visualizadores de siete segmentos
-semipuente cuádruple
-interruptor de palanca basculante
-herramienta de simulación para el diseño electrónico
-enlaces web de interés
-acrónimos
-material suplementario
-índice
-->**********************************09_Guapacha.txt
-introducción xii
-¿cómo usar este libro  xv
-nota aclaratoria xv
-para el profesor xv
-para el estudiante  xvi
-lección  lo más básico 
-¿qué es el álgebra booleana   
-¿qué es el lenguaje de descripción de hardware vhdl  
-fundamentos matemáticos 
-constantes lógicas  
-variables lógicas 
-señales  signal  
-operadores  
-lección  sistemas numéricos 
-sistema decimal 
-sistema binario 
-sistema octal 
-sistema hexadecimal  
-taller 
-lección  conversiones 
-conversión de binario a octal 
-conversión de octal a binario  
-conversión de binario a hexadecimal 
-taller  
+the stm nucleo family of prototyping platforms
+representative platforms of the stm nucleo  series
+representative platforms of the stm nucleo  series
+future prospects for microcontrollers
+fpga circuits  fundamentals and prototyping platforms
+internal structure of fpga circuits
+multilevel architectures in configurable logic
+logic modules embedded in an fpga circuit
+the challenge of synchronism
+organization of configurable logical blocks
+hdl languages for circuit simulation and synthesis
+xilinx spartan e and artix  family fpga circuits
+altera cyclone iv family fpga circuits
+an application in the field of industrial electronics
+fpga circuits vsmicrocontrollers
+appendices
+the teaching laboratory
+introduction
+the prototyping board
+the power supply
+performance and handling
+wiring the source with a generic load
+prototyping board power
+power supply decoupling
+the multimeter
+the oscilloscope
+the hm  analog oscilloscope from hameg instruments
+the mp digital oscilloscope from multicomp pro
+oscilloscope measurement probes
+the digilent analog discovery  usb oscilloscope
+the integrated circuit tester
+notes on experimental setups
+instrumentation and its use
+practical tips
+auxiliary components
+common mistakes
+electrical hazards
+introduction
+the ground connection
+severity of an electrocution
+identification of pins on integrated circuits
+pin numbering on an ic
+pin identification on logic gates
+pin identification on other integrated devices
+identification of terminals in optoelectronic components
+terminals of an led and an led light bar
+terminals of a seven segment display
+identification of terminals on electrical components
+terminals of a rotary potentiometer
+terminals of an electrolytic capacitor
+terminals of a spdt rocker toggle switch
+terminals of a slide actuator spdt switch
+standard values of resistors and capacitors
+color code for resistors
+standard resistance values
+standard capacitor values
+simulation notes
+introduction
+pspice quick guide
+creating a project
+drawing a circuit in the schematic window
+simulation and execution profile
+the pspice model editor
+connecting a bus to a circuit
+linking a stimulus to a bus
+flip flop initialization
+location of components in libraries
+list of all components used
+sources of tension and digital stimuli
+discrete semiconductors
+integrated devices with simulation model
+integrated devices without simulation model
+other components
+notes on commutation algebra
+introduction
+postulates and theorems of commutation algebra
+xor and xnor logic functions
+bibliography
+monographs
+research articles
+technical information from manufacturers
+fixed function integrated circuits  general 
+logic gates
+decoders
+multiplexer
+parity generator
+adder
+arithmetic logical units  alu circuits 
+timer
+asynchronous flip flops
+synchronous flip flops
+accountants
+records
+rom and ram memory circuits
+microprocessors
+microcontrollers
+microcontroller based development boards
+configurable digital logic  cpld and fpga circuits 
+development boards based on fpga circuits
+video encoders
+a d converter
+signal generators
+luminescent diodes  leds 
+seven segment displays
+quadruple half bridge
+rocker toggle switch
+simulation tool for electronic design
+web links of interest
+acronyms
+supplementary material
+index
 
-fundamentos viii de lógica digital con vhdl
-lección  organizando valores lógicos 
-tablas de verdad  
-funciones de álgebra booleana  
-representación de números con signo  
-lección  vhdl   componentes fundamentales 
-entidad  entity  
-arquitectura  architecture   
-lección  sentencias 
-concurrentes  
-codicionales 
-ciclos 
-lección  software de desarrollo xilinx   ise 
-creando un proyecto en xilinx ise 
-ise flujo de diseño 
-sintetizar  synthesize   
-nivel de transferencia de registros  rtl   
-implementación del diseño  implementation design   
-generación del archivo de programación   fpga 
-simulación y verificación  test bench  
-lección  compuertas lógicas i 
-lección  compuertas lógicas ii 
-taller 
-lección  compuertas lógicas iii 
-taller 
-lección  compuertas lógicas iv 
-lección  operadores y jerarquía 
-taller 
-lección  funciones y circuitos lógicos 
-ejemplo completo 
-taller 
-lección  simplificando funciones i 
-ejemplo de función  
-función original 
-función simplificada 
-circuito lógico de la función original 
-taller 
+->**********************************09_Guapacha_en.txt
+introduction xii
+how to use this book xv
+explanatory note xv
+for professor xv
+for the student xvi
+lesson  the most basic 
+what is boolean algebra 
+what is vhdl hardware description language 
+mathematical foundations 
+logical constants 
+logical variables 
+signals  signal  
+operators 
+lesson  number systems 
+decimal system 
+binary system 
+octal system 
+hexadecimal system 
+workshop 
+lesson  conversions 
+converting from binary to octal 
+octal to binary  conversion
+binary to hexadecimal conversion 
+workshop 
 
-lección  simplificando funciones ii 
-paso  
-paso  
-paso  
-paso   
-paso   
-paso   
-paso   
-función original 
-función simplificada 
-taller 
-lección  simplificando funciones iii 
-taller  
-lección  leyes de morgan i 
-taller 
-lección  leyes de morgan ii 
-taller  
-lección  mapas de karnaugh 
-taller 
-lección  decodificador 
-lección  codificador 
-lección  multiplexores 
-lección  demultiplexores 
-lección  suma 
-lección  comparadores binarios 
-lección  sistema de reloj  clock  
-lección  flip flop 
-bibliografía 
-->**********************************10_Julian.txt
-mensaje del editor ix
-sobre el autor xi
-prefacio xix
- microfabricación y tecnología 
- introducción 
- el proceso de fabricación 
- litografía 
- el proceso fotolitográfico 
- r emo c ió n  
- máscaras 
- oxidación 
- factores externos  
- introducción de dopantes 
- difu sió n 
- implantación de io n e s  
- deposición 
- evaporación 
+digital logic fundamentals viii with vhdl
+lesson  organizing logical values 
+truth tables 
+boolean algebra functions 
+representation of numbers with sign 
+lesson  vhdl   fundamental components 
+entity  entity  
+architecture  architecture  
+lesson  sentences 
+concurrent 
+coditionals 
+cycles 
+lesson  xilinx development software   ise 
+creating a project in xilinx ise 
+ise design flow 
+synthesize  synthesize  
+register transfer level  rtl  
+design implementation  implementation design  
+generation of the programming file   fpga 
+simulation and verification  test bench  
+lesson  logic gates i 
+lesson  logic gates ii 
+workshop 
+lesson  logic gates iii 
+workshop 
+lesson  logic gates iv 
+lesson  operators and hierarchy 
+workshop 
+lesson  logic functions and circuits 
+complete example 
+workshop 
+lesson  simplifying functions i 
+example of function 
+original function 
+simplified function 
+original function logic circuit 
+workshop 
+
+lesson  simplifying functions ii 
+step  
+step  
+step  
+step  
+step  
+step  
+step  
+original function 
+simplified function 
+workshop 
+lesson  simplifying functions iii 
+workshop 
+lesson  morgan's laws i 
+workshop 
+lesson  morgan's laws ii 
+workshop 
+lesson  karnaugh maps 
+workshop 
+lesson  decoder 
+lesson  encoder 
+lesson  multiplexers 
+lesson  demultiplexers 
+lesson  add 
+lesson  binary comparators 
+lesson  clock system  clock  
+lesson  flip flop 
+bibliography 
+
+->**********************************10_Julian_en.txt
+editor's message ix
+about the author xi
+preface xix
+ micromanufacturing and technology 
+ introduction 
+ the manufacturing process 
+ lithograph 
+ the photolithographic process 
+ removal 
+ masks 
+ oxidation 
+ external factors 
+ introduction of dopants 
+ diffusion 
+ implantation of ions 
+ deposition 
+ evaporation 
  sputtering 
- deposición química de v a p o r  
- e p ita x is  
- procesos simplificados 
- fabricación de un re sisto r 
- fabricación de un transistor nmos 
- reglas geométricas de diseño 
- procesos tecnológicos 
- proceso p w e l l  
- proceso twin tub 
- silicio sobre aislante  soi  
- inclusión de transistores bipolares 
-xiv índice general
- procesos d  
- f a l la s  
- rendimiento o y i e l d  
- márgenes 
- dispositivos 
- interconexiones 
- capacidades parásitas  
- resistencias parásitas 
- inductancias parásitas  
- modelos de conductores 
- modelos de parámetros concentrados 
- modelos de parámetros distribuidos 
- la juntura semiconductora 
- comportamiento de dc  
- modelo lineal incremental 
- modelo de ac  
- capacidad en in v e r s a  
- capacidad en directa 
- el transistor m o s  
- modelo de d c  
+ chemical vapor deposition 
+ e p ita x is 
+ simplified processes 
+ manufacture of a resistor 
+ manufacturing of an nmos  transistor
+ geometric design rules 
+ technological processes 
+ p w e l l process 
+ twin tub process 
+ silicon on insulator  soi  
+ inclusion of bipolar transistors 
+xiv general index
+ d processes 
+ f a l la s 
+ performance o y i e l d 
+ margins 
+ devices 
+ interconnections 
+ parasitic capabilities 
+ parasitic resistances 
+ parasitic inductances 
+ driver models 
+ lumped parameter models 
+ distributed parameter models 
+ the semiconductor junction 
+ dc  behavior
+ incremental linear model 
+ ac model 
+ investment capacity 
+ direct capacity 
+ the m o s transistor 
+ d c model 
  nmos 
- pmos  
- modelo lineal incremental 
- modelo de a c  
- capacidad dz g a te  
- capacidad de juntura s 
- capacidad de solapamiento 
- circuitos de lógica combinacional cmos 
- conceptos preliminares 
- el transistor como llave 
- compuertas lógicas cmos 
- descripción conceptual 
- la compuerta inversora 
- la compuerta n a n d  
- la compuerta ñ o r  
- compuertas de paso y transmisión 
- inversor de tres e s ta d o s  
- características de dc  
- la compuerta inversora 
- la compuerta nand  
- la compuerta nor  
- compuertas de paso y transmisión 
-i transistor nmos de paso  
-a transistor pmos de paso  
- compuerta de transmisión  
- compuertas complejas 
- otros estilos lógicos
- lógica pseudo nmos 
- lógica dinámica  
- lógica de compuertas de p a s o  
- lógica complementaria de transistores de paso  cpl     
- diseño físico de compuertas 
- diagramas a mano alzada 
- compuertas básicas
- el in v e rs o r
- compuertas nand y nor  
- compuertas de transmisión 
- compuertas com p le ja s 
- metodología de caminos de euler 
- metodología de weinberger 
- celdas estándar 
- buenos hábitos de la y o u t 
- dinámica de circuitos combinacionales 
- tiempos de transición 
- transiciones de entrada no inmediatas
- el transistor como un resistor  
- cómputo de capacidades
- capacidad de e n tr a d a  
- capacidad de s a lid a  
- compuertas cmo s
- la compuerta inversora
- la compuerta nand
- la compuerta nor r
- dimensionamiento
- cadena de inversores
- elección del número de etapas 
- efecto de ramificación
- disipación de p o te n c ia  
- disipación estática 
- disipación dinámica 
- disipación por corriente de cortocircuito 
- circuitos secuenciales 
- latch y registros estáticos
- definiciones  
- requisitos temporales 
- registros
+ pmos 
+ incremental linear model 
+ model of a c 
+ capacity dz g a te 
+ joint capacity s 
+ overlap capacity 
+ cmos combinational logic circuits 
+ preliminary concepts 
+ the transistor as a key 
+ cmos logic gates 
+ conceptual description 
+ the reversing gate 
+ the gate n a n d 
+ the gate ñ o r 
+ passage and transmission gates 
+ three state inverter 
+ dc  features
+ the reversing gate 
+ nand gate 
+ the nor  gate
+ passage and transmission gates 
+i  pitch nmos transistor
+a  pitch pmos transistor
+ transmission gate 
+ complex gates 
+ other logical styles
+ pseudo nmos logic 
+ dynamic logic 
+ step gate logic 
+ complementary pass transistor logic  cpl  
+ physical design of gates 
+ freehand diagrams 
+ basic gates
+ the investor r
+ nand and nor gates 
+ transmission gates 
+ com p le ja s gates 
+ euler path methodology 
+ weinberger methodology 
+ standard cells 
+ good habits of the y o u t 
+ dynamics of combinational circuits 
+ transition times 
+ non immediate entry transitions
+ the transistor as a resistor 
+ computation of capabilities
+ input capacity 
+ safety capacity 
+ cmo s gates
+ the reversing gate
+ nand gate
+ the nor gate r
+ sizing
+ chain of investors
+ choice of number of stages 
+ branching effect
+ power dissipation 
+ static dissipation 
+ dynamic dissipation 
+ short circuit current dissipation 
+ sequential circuits 
+ latch and static registers
+ definitions 
+ temporary requirements 
+ records
  l atch 
- regeneración y biestabilidad 
- propiedad regenerativa 
- principio de biestabilidad
- implementaciones c m o s 
- la tch  
- r e g is tro 
- señales de reloj no ideales  
- flip flop s r  
- memorias 
- memorias rom  
- memorias ram estáticas  sram  
- operación de lectura
- operación de escritura
- memorias ram dinámicas  dram  
- celda  t 
- celda i t 
- decodificadores
- decodificadores de f i l a  
- decodificadores de columna 
- circuitos no b ie s ta b le s
- osciladores o astables  
- circuitos monoestables 
- circuito disparador de schmitt
-a método de elmore 
-b flujo de diseño 
-c aspectos prácticos 
-cl conexiones externas  p a d s 
+ regeneration and bistability 
+ regenerative property 
+ principle of bistability
+ c m o s implementations 
+ the tch 
+ registry 
+ non ideal clock signals 
+ flip flop s r 
+ memories 
+ rom memories 
+ static ram memories  sram  
+ read operation
+ write operation
+ dynamic ram memories  dram  
+ cell  t 
+ cell i t 
+ decoders
+ file decoders 
+ column decoders 
+ circuits not b ie s ta b le s
+ oscillators or astables 
+ monostable circuits 
+ schmitt trigger circuit
+a elmore method 
+b design flow 
+c practical aspects 
+cl external connections  p a d s 
 c latch up
-c  conexiones internas  alimentación y reloj 
-c alimentación 
-c  reloj 
-d modelos de spice 
-d l fuentes 
-d ll fuentes independientes
-d fuentes dependientes
-d dispositivos pasivos 
-d resistencias
-d capacitores
-d inductores
-d inductores m u tu o s  
-d dispositivos semiconductores 
-d diodo  
-d transistores bipolares  
-d transistores mos  
-d modelo de nivel   
-d modelos de nivel  y  
-d modelo de nivel   
-circuitos
-->**********************************11_Roy.txt
+c  internal connections  power and clock 
+c power 
+c  clock 
+d spice  models
+d l sources 
+d ll independent sources
+d dependent sources
+d passive devices 
+d resistors
+d capacitors
+d inductors
+d mutual inductors 
+d semiconductor devices 
+d diode 
+d bipolar transistors 
+d mos transistors 
+d level  model 
+d level  and  models 
+d level  model 
+circuits
+
+->**********************************11_Roy_en.txt
 binary number system 
  introduction 
  binary number system 
@@ -2856,476 +2860,477 @@ xxii contents
  conclusion 
 references 
 index 
-->**********************************12_Urquia.txt
-indice 
-listado de codigo vhdl 
- fundamentos del diseño del hardware digital 
- introducción 
- lenguajes para la descripcion de hardware 
- usos de un programa hdl 
- hdl más ampliamente usados 
- ciclo de diseño de los circuitos digitales 
- tecnologías de circuitos integrados 
- clasificación de las tecnologías 
- comparación entre tecnologías 
- propiedades de los circuitos digitales 
- retardo de los dispositivos 
- ejecución concurrente 
- diseños marginales 
- fortaleza de las señales 
- test de los circuitos 
- test en manufactura 
- test funcional 
+->**********************************12_Urquia_en.txt
+index 
+vhdl  code listing
+ digital hardware design fundamentals 
+ introduction 
+ languages for hardware description 
+ uses of an hdl program 
+ most widely used hdl 
+ digital circuit design cycle 
+ integrated circuit technologies 
+ classification of technologies 
+ comparison between technologies 
+ properties of digital circuits 
+ device delay 
+ concurrent execution 
+ marginal designs 
+ signal strength 
+ circuit test 
+ test in manufacturing 
+ functional test 
 
-el código vhdl usado para ilustrar las explicaciones teóricas  así como los diseños y bancos de
-prueba propuestos como solución de los ejercicios de autocomprobación  están disponibles en
-la url siguiente  https   canalunedes series ebdcefe
-diseño y análisis de circuitos digitales con vhdl
- programas de test funcional 
- banco de pruebas 
- representaciones y niveles de abstracción 
- representación del sistema 
- niveles de abstracción 
- vhdl en el flujo de desarrollo 
- conceptos básicos a través de un ejemplo 
- comportamiento al nivel de funciones lógicas 
- descripción de la estructura 
- descripción abstracta del comportamiento 
- banco de pruebas 
- configuración 
- simulación de código vhdl a través de un ejemplo 
- diseño de un buffer triestado 
- diseño del banco de pruebas 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
- conceptos básicos de vhdl 
- introducción 
- unidades de diseño 
+the vhdl code used to illustrate the theoretical explanations  as well as the designs and banks of
+test proposed as a solution to the self check exercises  are available at
+the following url  https   canalunedes series ebdcefe
+design and analysis of digital circuits with vhdl
+ functional test programs 
+ test bench 
+ representations and levels of abstraction 
+ system representation 
+ levels of abstraction 
+ vhdl in the development flow 
+ basic concepts through an example 
+ behavior at the level of logical functions 
+ structure description 
+ abstract description of behavior 
+ test bench 
+ configuration 
+ simulation of vhdl code through an example 
+ design of a tristate buffer 
+ test bench design 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+ vhdl basics 
+ introduction 
+ design units 
  entity 
- cláusula port 
- cláusula generic 
- declaraciones 
- sentencias 
- resumen de la sintaxis de la entity 
+ port  clause
+ generic clause 
+ declarations 
+ sentences 
+ summary of entity syntax 
  architecture 
 
-indice
- asignaciones concurrentes 
- asignaciones concurrentes simples 
- asignaciones concurrentes condicionales 
- asignaciones concurrentes de selección 
- sensibilidad de las sentencias concurrentes 
- sentencia generate 
- sentencia generate iterativa 
- sentencia generate condicional 
- bloque process 
- sentencias wait 
- lista de sensibilidad 
- código secuencial 
- asignación secuencial a una señal 
- asignación secuencial a una variable 
- sentencia if 
- sentencia case 
- bucle for 
- descripción de la estructura 
- diseños con estructura regular 
- parametrización 
- parametrización del comportamiento 
- parametrización de la estructura 
- señales  variables y constantes 
- tipos de datos y operadores 
- tipos predefinidos en vhdl 
- tipos del paquete ieeestd logic  
- operadores sobre bit vector y std logic vector 
- tipos del paquete ieeenumeric std 
+index
+ concurrent assignments 
+ simple concurrent assignments 
+ conditional concurrent assignments 
+ concurrent selection assignments 
+ sensitivity of concurrent sentences 
+ generate  statement
+ iterative generate statement 
+ conditional generate statement 
+ process block 
+ wait  statements
+ sensitivity list 
+ sequential code 
+ sequential assignment to a signal 
+ sequential assignment to a variable 
+ if  statement
+ case  ruling
+ loop for 
+ structure description 
+ designs with regular structure 
+ parameterization 
+ behavior parameterization 
+ structure parameterization 
+ signals  variables and constants 
+ data types and operators 
+ predefined types in vhdl 
+ ieeestd logic   package types
+ operators on bit vector and std logic vector 
+ ieeenumeric std  packet types
 
-diseño y análisis de circuitos digitales con vhdl
- tipos time y string 
- tipos definidos por el usuario 
- atributos 
- librerías 
+design and analysis of digital circuits with vhdl
+ time and string types 
+ user defined types 
+ attributes 
+ libraries 
  assert 
- subprogramas 
- funciones 
- procedimientos 
- diferencias entre funciones y procedimientos 
- paquetes 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
- simulación del código vhdl 
- introducción 
- procesamiento del código vhdl 
- orden de compilación 
+ subprograms 
+ functions 
+ procedures 
+ differences between functions and procedures 
+ packages 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+ simulation of vhdl  code
+ introduction 
+ vhdl  code processing
+ build order 
  drivers 
- inicialización 
- ejemplo  señal con un driver 
- ejemplo  señal con dos drivers 
- atributos de las señales 
- el retardo delta 
- gestión de la cola de transacciones del driver 
- ejemplo  simulación de formas de onda con retardo inercial 
- ejemplo  simulación de formas de onda con retardo de transporte
+ initialization 
+ example  signal with a  driver
+ example  signal with two drivers 
+ signal attributes 
+ the delta  delay
+ driver transaction queue management 
+ example  waveform simulation with inertial delay 
+ example  transport delay waveform simulation
 
- ejemplo  simulación de un circuito sencillo 
+ example  simulation of a simple circuit 
 
-indice
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
- diseño de lógica combinacional 
- introducción 
- diseño para síntesis de lógica combinacional 
- empleo de sentencias concurrentes 
- empleo de bloques process 
- funciones lógicas 
- diseño del circuito 
- programación del banco de pruebas 
- multiplexor de  entradas 
- diseño usando sentencias secuenciales 
- diseño usando sentencias concurrentes 
- restador completo de  bit 
- descripción del comportamiento 
- descripción de la estructura 
- programación del banco de pruebas 
- sumador completo de  bit 
- diseño del circuito 
- banco de pruebas 
- unidad aritmético lógica 
- diseño de la alu 
- programación del banco de pruebas 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
+index
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+ combinational logic design 
+ introduction 
+ design for combinational logic synthesis 
+ use of concurrent sentences 
+ use of process  blocks
+ logic functions 
+ circuit design 
+ test bench programming 
+  input multiplexer 
+ design using sequential statements 
+ design using concurrent statements 
+  bit full subtractor 
+ description of behavior 
+ structure description 
+ test bench programming 
+  bit full adder 
+ circuit design 
+ test bench 
+ arithmetic logic unit 
+ design of the alu 
+ test bench programming 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
 
-diseño y análisis de circuitos digitales con vhdl
- registros y memorias 
- introducción 
- registro de  bits 
- descripción del comportamiento 
- banco de pruebas 
- registro multifunción 
- descripción del comportamiento 
- banco de pruebas 
- registro de desplazamiento 
- descripción del comportamiento 
- banco de pruebas 
- banco de pruebas con acceso a fichero 
+design and analysis of digital circuits with vhdl
+ records and memories 
+ introduction 
+  bit register 
+ description of behavior 
+ test bench 
+ multi function register 
+ description of behavior 
+ test bench 
+ shift register 
+ description of behavior 
+ test bench 
+ test bench with access to file 
  register file 
- registro triestado 
- descripción estructural del register file 
- drivers y función de resolución 
- banco de pruebas del register file 
- descripción del comportamiento del register file 
- bus bidireccional y memorias 
- memoria de sólo lectura 
- memoria de lectura y escritura 
- bus bidireccional 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
- diseño de lógica secuencial 
- introducción 
- diseño de máquinas de estado finito 
+ tristate registry 
+ structural description of register file 
+ drivers and  resolution function
+ register file  test bench
+ description of the behavior of register file 
+ bidirectional bus and memories 
+ read only memory 
+ read and write memory 
+ bidirectional bus 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+ sequential logic design 
+ introduction 
+ design of finite state machines 
 
-indice
- circuito detector de secuencias 
- síntesis de lógica secuencial 
- sentencias condicionales incompletas 
- sentencias condicionales completas 
- retardos 
- inicialización 
- bloques process 
+index
+ sequence detector circuit 
+ synthesis of sequential logic 
+ incomplete conditional statements 
+ complete conditional statements 
+ delays 
+ initialization 
+ process blocks 
  flip flop jk 
- diseño del flip flop 
- banco de pruebas 
- máquinas de estado finito de moore 
- diseño de la máquina 
- banco de pruebas 
- modelado estructural 
- máquinas de estado finito de mealy 
- diseño de la máquina 
- banco de pruebas 
- máquinas de estado finito seguras 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
- metodología de transferencia entre registros 
- introducción 
- operaciones de transferencia entre registros 
- operación rt básica 
- programa rt 
- máquinas de estado finito con camino de datos 
- múltiples operaciones rt y camino de datos 
+ design of the  flip flop
+ test bench 
+ moore  finite state machines
+ machine design 
+ test bench 
+ structural modeling 
+ mealy  finite state machines
+ machine design 
+ test bench 
+ safe finite state machines 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+ transfer methodology between  records
+ introduction 
+ transfer operations between registers 
+ basic rt operation 
+ rt  program
+ finite state machines with data paths 
+ multiple rt operations and  data path
 
-diseño y análisis de circuitos digitales con vhdl
- lógica de control mediante fsm 
- diagrama de bloques básico de la fsmd 
- descripción del programa rt usando vhdl 
- circuito detector de secuencia 
- control de una máquina expendedora 
- protocolo de handshaking 
- descripción del algoritmo 
- diseño del circuito de control 
- programación del banco de pruebas 
- lecturas recomendadas 
- ejercicios de autocomprobación 
- soluciones de los ejercicios 
-a introducción al uso de modelsim 
-a instalación 
-a edición y compilación de un modelo 
-a ventana principal del simulador 
-a pasos para crear un proyecto 
-a añadir ficheros al proyecto 
-a compilación de los ficheros 
-a banco de pruebas 
-a simulación  visualización y depurado 
-a activación del modo simulación 
-a visualización de los resultados 
-a ejecución de la simulación 
-a inserción de puntos de ruptura 
-indice alfabético 
-bibliografía 
+design and analysis of digital circuits with vhdl
+ control logic using fsm 
+ fsmd  basic block diagram
+ description of the rt program using vhdl 
+ sequence detector circuit 
+ control of a vending machine 
+ handshaking protocol 
+ description of algorithm 
+ control circuit design 
+ test bench programming 
+ recommended readings 
+ self check exercises 
+ solutions to exercises 
+a introduction to using modelsim 
+a installation 
+a edition and compilation of a model 
+a main simulator window 
+a steps to create a  project
+a add files to project 
+a compilation of  files
+a test bench 
+a simulation  visualization and debugging 
+a activation of  simulation mode
+a viewing results 
+a simulation execution 
+a insertion of breakpoints 
+alphabetical index 
+bibliography 
 
-listado de código vhdl
- entity del circuito detector de paridad
- architecture del detector de paridad describiendo el comportamiento mediante la función lógica
- architecture del detector de paridad describiendo el comportamiento mediante la función lógica xor
- puerta inversora
- puerta xor con dos entradas
- architecture del detector de paridad describiendo la estructura del circuito
- architecture del detector de paridad descrita mediante una red xor
- architecture del detector de paridad descrita mediante un algoritmo
- banco de pruebas del detector de paridad
- configuration para la simulación del banco de pruebas del detector de paridad
- buffer triestado
- banco de pruebas del buffer triestado
- diseño del circuito de control de la alarma de seguridad de un coche
- diseño alternativo del circuito de control de la alarma de un coche
- circuito detector de paridad
- código incorrecto  que produce un error de compilación
- descripción correcta del circuito mostrado en la figura 
- multiplexor de  entradas de  bits
- decodificador binario de  entradas
- codificador  a  con prioridad
+vhdl code list
+ entity of the parity detector circuit
+ architecture of the parity detector describing the behavior using the logic function
+ architecture of the parity detector describing the behavior using the xor logic function
+ inverter gate
+ xor gate with two inputs
+ architecture of the parity detector describing the circuit structure
+ architecture of the parity detector described using an xor network
+ architecture of the parity detector described by an algorithm
+ parity detector test bench
+ configuration for parity detector test bench simulation
+ tri state buffer
+ tri state buffer testbench
+ design of the control circuit of a car security alarm
+ alternative design of the car alarm control circuit
+ parity detector circuit
+ bad code  causing a compilation error
+ correct description of the circuit shown in figure 
+  input  bit multiplexer
+  input binary decoder
+  to  encoder with priority
 
-diseño y análisis de circuitos digitales con vhdl
- multiplexor de  entradas de  bits
- decodificador binario de  entradas
- codificador  a  con prioridad
- biestable d con reset asíncrono activado al nivel low
- multiplexor de  entradas de  bits
- decodificador binario de  entradas
- codificador  a  con prioridad
- multiplexor de  entradas de  bits
- decodificador binario de  entradas
- codificador  a  con prioridad
- xor bit a bit de dos señales de  bits
- xor de los bits de una señal de  bits
- descripción estructural al nivel de puertas lógicas de un multiplexor
-de dos señales de un bit
- descripción estructural de un multiplexor de  señales de  bit
- array de  puertas and
- detector de paridad de  bits
- la función conv integer convierte un parámetro del tipo std logic  
-vector a un entero
- procedimiento que devuelve dos parámetros de entrada ordenados
- definición de una función en un package
- uso de una función definida en un package
- diseño correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- banco de pruebas correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- diseño del circuito “one shot”
- banco de pruebas del circuito “one shot”
- diseño de un decodificador   con entrada enable
+design and analysis of digital circuits with vhdl
+  input  bit multiplexer
+  input binary decoder
+  to  encoder with priority
+ flip flop d with asynchronous reset activated at level low
+  input  bit multiplexer
+  input binary decoder
+  to  encoder with priority
+  input  bit multiplexer
+  input binary decoder
+  to  encoder with priority
+ bitwise xor of two  bit signals
+ xor the bits of a  bit signal
+ structural description at the logic gate level of a multiplexer
+of two one bit signals
+ structural description of a  bit  signal multiplexer
+ and  door array
+  bit parity detector
+ the conv integer function converts a parameter of type std logic  
+vector to an integer
+ procedure that returns two input parameters in order
+ defining a function in a package
+ using a function defined in a package
+ design corresponding to exercise 
+ design corresponding to exercise 
+ test bank corresponding to exercise 
+ design corresponding to exercise 
+ “one shot” circuit design
+ one shot circuit test bench
+ design of a   decoder with enable input
 
-listado de código vhdl
- banco de pruebas de un decodificador   con entrada enable
- código correspondiente al ejercicio 
- código correspondiente al ejercicio 
- diseño del ejercicio 
- banco de pruebas del ejercicio 
- diseño del ejercicio 
- banco de pruebas del ejercicio 
- diseño correspondiente al ejercicio 
- banco de pruebas correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- banco de pruebas correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- diseño correspondiente al ejercicio 
- diseño mediante la descripción de las funciones lógicas
- banco de pruebas del circuito que implementa las dos funciones lógicas
- diseño de un mux   mediante una sentencia if
- descripción del mux   mediante sentencias if y case
- banco de pruebas del mux  
- descripción errónea de la architecture del mux  
- diseño de un mux   mediante una sentencia concurrente
- diseño de un mux   mediante dos sentencias concurrentes
- descripción del comportamiento de un restador completo de un bit
- puerta or exclusiva de  entradas
- inversor de  entrada
- puerta and de  entradas
- puerta or de  entradas
+vhdl code list
+ test bench of a   decoder with enable input
+ code corresponding to exercise 
+ code corresponding to exercise 
+ exercise design 
+ test bench for exercise 
+ exercise design 
+ test bench for exercise 
+ design corresponding to exercise 
+ test bank corresponding to exercise 
+ design corresponding to exercise 
+ test bank corresponding to exercise 
+ design corresponding to exercise 
+ design corresponding to exercise 
+ design corresponding to exercise 
+ design corresponding to exercise 
+ design by describing logical functions
+ test bench of the circuit that implements the two logical functions
+ design of a   mux using an if statement
+ description of the   mux using if and case statements
+ mux test bench  
+ misdescription of the mux architecture  
+ design of a   mux using a concurrent statement
+ design of a   mux using two concurrent statements
+ description of the behavior of a complete one bit subtractor
+ exclusive or gate with  inputs
+  input inverter
+  input and gate
+  input or gate
 
-diseño y análisis de circuitos digitales con vhdl
- descripción de la estructura de un restador completo de un bit
- banco de pruebas del restador completo de un bit
- banco de pruebas del restador completo de un bit usando un procedimiento
+design and analysis of digital circuits with vhdl
+ description of the structure of a complete one bit subtractor
+ one bit full subtractor testbench
+ one bit complete subtractor test bench using a procedure
 
- banco de pruebas del restador completo de un bit usando una función
- and de  entradas con retardo
- or de  entradas con retardo
- or exclusiva de  entradas con retardo 
- package en el que se declaran las puertas lógicas
- sumador completo de  bit
- banco de pruebas del sumador completo de  bit
- definición de constantes globales de la alu
- alu diseñada mediante una sentencia concurrente
- alu diseñada mediante un bloque process
- constantes globales del banco de pruebas de la alu
- banco de pruebas de la alu
- diseño de un codificador   con prioridad
- banco de pruebas de un codificador   con prioridad
- diseño del circuito comparador de  bit para x   
- banco de pruebas del circuito comparador de  bit para x   
- decodificador bcd a  segmentos descrito empleando una sentencia
+ one bit full subtractor testbench using a function
+  input and with delay
+  input or with delay
+  input exclusive or with delay 
+ package in which the logic gates are declared
+  bit full adder
+  bit full adder testbench
+ definition of global constants of the alu
+ alu designed using a concurrent statement
+ alu designed using a process block
+ global constants of the alu test bench
+ alu test bench
+ design of a   encoder with priority 
+ test bench of a   encoder with priority
+ design of the  bit comparator circuit for x   
+  bit comparator circuit test bench for x   
+  segment bcd decoder described using a statement
 case
- banco de pruebas del decodificador bcd
- decodificador bcd descrito empleando una sentencia if
- decodificador bcd descrito empleando una sentencia de asignación
-concurrente condicional
- decodificador bcd descrito empleando una sentencia with select
- diseño del sumador de n bits
- banco de pruebas del sumador de  bits
+ bcd decoder test bench
+ bcd decoder described using an if statement
+ bcd decoder described using an assignment statement
+conditional concurrent
+ bcd decoder described using a with select statement
+ n bit adder design
+  bit adder testbench
 
-listado de código vhdl
- diseño del circuito desplazador
- banco de pruebas del circuito desplazador
- comparador de igualdad de dos números de  bit
- comparador de igualdad de dos números de n bits
- banco de pruebas del comparador de igualdad de dos números de n
+vhdl code list
+ displacer circuit design
+ displacer circuit test bench
+ equality comparator of two  bit numbers
+ equality comparator of two n bit numbers
+ test bench of the equality comparator of two numbers of n
 bits
- package con las constantes globales de la alu
- diseño de la alu cuyo circuito se muestra en la figura 
- package con las constantes usadas en el banco de pruebas de la alu
- banco de pruebas de la alu
- diseño de una puerta not de  entrada
- diseño de una puerta and de  entradas
- diseño de un decodificador de  a  bits
- banco de pruebas de un decodificador de  a  bits
- diseño del conversor de código binario a código gray  empleando un
-bloque process con una sentencia case
- diseño del conversor de código binario a código gray  empleando una
-asignación concurrente de selección  with   select 
- diseño del conversor de código binario a código gray  describiendo la
-estructura del circuito al nivel de puertas lógicas
- banco de pruebas del conversor de código binario a código gray
- diseño de un registro de  bits con reset síncrono
- banco de pruebas de un registro de  bits con reset síncrono
- diseño de un registro multifunción de  bits
- banco de pruebas de un registro multifunción de  bits
- diseño de un registro de desplazamiento de  bits
- banco de pruebas del registro de desplazamiento de  bits
- banco de pruebas del registro con acceso a fichero
- diseño de un registro triestado
+ package with the global constants of the alu
+ design of the alu whose circuit is shown in figure 
+ package with the constants used in the alu test bench
+ alu test bench
+ design of a  input not gate
+ design of a  input and gate
+ design of a  to  bit decoder
+ test bench of a  to  bit decoder
+ design of the binary code to gray code converter  using a
+process block with a case statement
+ design of the binary code to gray code converter  using a
+concurrent selection assignment  with   select 
+ design of the binary code to gray code converter  describing the
+circuit structure at the logic gate level
+ gray binary to code converter testbed
+ design of a  bit register with synchronous reset
+ test bench of a  bit register with synchronous reset
+ design of a  bit multifunction register
+ test bench of a  bit multifunction register
+ design of a  bit shift register
+  bit shift register testbench
+ registry test bench with access to file
+ design of a tri state registry
 
-diseño y análisis de circuitos digitales con vhdl
- diseño estructural del register file
- banco de pruebas del register file  con acceso a fichero
- diseño del register file mediante la descripción del comportamiento
- memoria de sólo lectura
- memoria de lectura y escritura
- bus bidireccional
- diseño de un registro de desplazamiento de  bits empleando variables
- diseño de un registro de desplazamiento de  bits empleando señales
- diseño erróneo de un registro de desplazamiento de  bits
- banco de pruebas de un registro de desplazamiento de  bits con
-entrada y salida serie
- registro de desplazamiento de n bits  con entrada y salida serie
- registro serie a paralelo y paralelo a serie de  bits
- banco de pruebas para el registro serie a paralelo y paralelo a serie de
+design and analysis of digital circuits with vhdl
+ structural design of register file
+ register file test bench  with access to file
+ design of the register file by describing the behavior
+ read only memory
+ read and write memory
+ bidirectional bus
+ design of a  bit shift register using variables
+ design of a  bit shift register using signals
+ incorrect design of a  bit shift register
+ test bench of a  bit shift register with
+serial input and output
+ n bit shift register  with serial input and output
+  bit serial to parallel and parallel to serial register
+ test bench for serial to parallel and parallel to serial recording of
  bits
- constantes globales de la alu y el registro
- diseño del circuito alu y registro mostrado en la figura 
- constantes globales del banco de pruebas
- banco de pruebas del circuito alu y registro
- diseño de la rom
- banco de pruebas de la rom
- diseño de la ram
- banco de pruebas de la ram
- diseño del circuito detector
- banco de pruebas del circuito detector
- diseño de un flip flop jk con reset asíncrono
- banco de pruebas de un flip flop jk
- package con la codificación de los estados
- diseño de la máquina de moore de la figura 
+ global alu and register constants
+ alu circuit design and register shown in figure 
+ global testbench constants
+ alu circuit test bench and register
+ rom design
+ rom test bench
+ ram design
+ ram test bench
+ detector circuit design
+ detector circuit test bench
+ design of a jk flip flop with asynchronous reset
+ test bench of a jk flip flop
+ package with the coding of the states
+ design of the moore machine of figure 
 
-listado de código vhdl
- banco de pruebas de la máquina de moore de la figura 
- diseño estructural de la máquina de moore
- package con la codificación de los estados
- diseño de la máquina de mealy de la figura 
- diseño alternativo de la máquina de mealy de la figura 
- banco de pruebas no exhaustivo de la máquina de mealy de la figura
+vhdl code list
+ moore machine test bench of figure 
+ structural design of moore machine
+ package with the coding of the states
+ design of the mealy machine in figure 
+ alternative design of the mealy machine of figure 
+ non exhaustive test bench of the mealy machine in figure
 
- banco de pruebas de la máquina de mealy de la figura 
- diseño de una fsm segura
- diseño de un latch d
- banco de pruebas del latch d
- diseño de un flip flop rs
- banco de pruebas de un flip flop rs
- diseño de un flip flop d con señales enable  set y clear
- banco de pruebas de un flip flop d
- constantes del diseño del contador ascendente módulo 
- diseño de un contador ascendente módulo 
- banco de pruebas de un contador ascendente módulo 
- diseño estructural del contador ascendente módulo 
- constantes globales que codifican los estados
- diseño del generador de señal
- banco de pruebas del generador de señal
- diseño del divisor de frecuencia por 
- banco de pruebas del divisor de frecuencia por 
- circuito generador de señales
- banco de pruebas del circuito generador de señales
- circuito detector de  o más unos consecutivos
- banco de pruebas del circuito detector de secuencia
- diseño del contador bcd
+ mealy machine test bench of figure 
+ design of a secure fsm
+ design of a d latch
+ d latch test bench
+ design of an rs flip flop
+ rs flip flop test bench
+ design of a d flip flop with enable  set and clear signals
+ d flip flop test bench
+ module  upcounter design constants
+ design of a module  ascending counter
+ test bench of an ascending counter module 
+ structural design of the module  up counter
+ global constants that encode states
+ signal generator design
+ signal generator test bench
+ frequency divider design by 
+ frequency divider test bench for 
+ signal generator circuit
+ signal generator circuit test bench
+ detector circuit of  or more consecutive ones
+ sequence detector circuit test bench
+ bcd counter design
 
-diseño y análisis de circuitos digitales con vhdl
- banco de pruebas del contador bcd
- diseño del detector de la secuencia “”
- banco de pruebas del detector de la secuencia “”
- diseño del contador binario ascendente y descendente de  bits
- banco de pruebas del contador binario ascendente y descendente de 
+design and analysis of digital circuits with vhdl
+ bcd counter test bench
+ design of the “” sequence detector
+ “” sequence detector test bench
+ design of  bit up and down binary counter
+  up and down binary counter test bench
 bits
- constantes globales del controlador de dos semáforos
- diseño del controlador de dos semáforos
- banco de pruebas del controlador de dos semáforos
- constantes globales del controlador del microondas
- diseño del controlador del microondas
- banco de pruebas del controlador del microondas
- codificación en vhdl de un algoritmo rt
- dos diseños de un circuito detector de la secuencia  
- constantes del circuito de la máquina expendedora
- circuito de control de la máquina expendedora
- banco de pruebas del circuito de control de la máquina expendedora
- circuito que calcula el máximo común divisor de dos números
- banco de pruebas del circuito que calcula el máximo común divisor de
-dos números
- circuito que calcula la media de  números de  bits
- banco de pruebas del circuito que calcula la media de  números de 
+ global constants of the two semaphore controller
+ two traffic light controller design
+ two traffic light controller testbed
+ global microwave controller constants
+ microwave controller design
+ microwave controller test bench
+ vhdl encoding of an rt algorithm
+ two designs of a detector circuit of the sequence  
+ vending machine circuit constants
+ vending machine control circuit
+ vending machine control circuit test bench
+ circuit that calculates the greatest common factor of two numbers
+ circuit test bench that calculates the greatest common factor of
+two numbers
+ circuit that calculates the average of   bit numbers
+ circuit test bench that calculates the average of  numbers out of 
 bits
- declaración de la constante global
- conversor de código bcd a binario
- banco de pruebas del conversor de código bcd a binario
- declaración de las constantes globales del diseño
- circuito que calcula la exponenciación de dos números binarios sin signo
- banco de pruebas del circuito que calcula la exponenciación
-->**********************************13_Brock.txt
+ declaration of the global constant
+ bcd to binary code converter
+ bcd to binary code converter testbed
+ declaration of global design constants
+ circuit that calculates the exponentiation of two unsigned binary numbers
+ test bench of the circuit that calculates exponentiation
+
+->**********************************13_Brock_en.txt
   introduction  analog versus digital  
  differences between analog and digital systems  
  advantages of digital systems over analog systems  
@@ -3596,7 +3601,7 @@ bits
 appendix a  list of worked examples  
 appendix b  concept check solutions  
 index  
-->**********************************14_Wakerly.txt
+->**********************************14_Wakerly_en.txt
 preface xv
  introduction 
  about digital design 
@@ -3925,7 +3930,7 @@ xiv contents
 references 
 drill problems 
 index 
-->**********************************15_Ghosh.txt
+->**********************************15_Ghosh_en.txt
 analog and digital signals  
 definitions
 difference between analog and digital signals
@@ -4053,7 +4058,7 @@ binary ladder
 a d converter
 simultaneous  counter type  continuous a d converter  successive
 approximation method  single slope and dual slope a d converter
-->**********************************16_Raychaudhuri.txt
+->**********************************16_Raychaudhuri_en.txt
 preface xvii
    origin of electronics 
  what is electronics 
@@ -4518,7 +4523,7 @@ project work on
  computer organization 
  use of microprocessor 
  use of microcontroller 
-->**********************************17_War.txt
+->**********************************17_War_en.txt
    ​ introduction to logic gates
 integrated circuits  or ics
 gate technology
@@ -4745,7 +4750,7 @@ appendix ​ appendix
 appendix  ​ solutions for exercises in the  s
 appendix ​ exercises
 index
-->**********************************18_Tokheim.txt
+->**********************************18_Tokheim_en.txt
 preface ix
 acknowledgments x
 walkthrough xii
@@ -5050,7 +5055,7 @@ appendix b s complement conversions
 glossary of terms and symbols 
 index 
 
-->**********************************19_Maini.txt
+->**********************************19_Maini_en.txt
 number systems and codes 
 learning objectives 
  analogue versus digital 
@@ -5612,53 +5617,53 @@ problems
 objective type exercises 
 answers 
 index 
-->**********************************20_Varela.txt
-prefacio 
+->**********************************20_Varela_en.txt
+preface 
   
-introducción 
-sistemas de numeración y cambios de base 
-codificación 
-número decimal codificado en binario  bcd  
-códigos de gray 
-sumas y restas en base diez y en base dos 
-ejercicios del   
+introduction 
+numbering systems and base changes 
+coding 
+binary coded decimal number  bcd  
+gray codes 
+addition and subtraction in base ten and in base two 
+exercises from   
   
-compuertas lógicas básicas y álgebra booleana 
-compuertas básicas 
-álgebra booleana 
-reglas del álgebra booleana 
-el dual de una ecuación booleana 
-mapas de karnaugh 
-igualdad entre suma de productos y producto de sumas 
-mapa de karnaugh de cinco variables 
-mapas de karnaugh con indiferencia 
-ejemplos resueltos 
-ejercicios del   
+basic logical gates and boolean algebra 
+basic gates 
+boolean algebra 
+rules of boolean algebra 
+the dual of a boolean equation 
+maps of karnaugh 
+equality between sum of products and product of sums 
+karnaugh map of five variables 
+maps of karnaugh with indifference 
+solved examples 
+exercises from   
   
-circuitos lógicos combinacionales 
-display de siete segmentos 
-comparador de dos números 
-semisumador y sumador completo 
-decodificadores 
-codificadores 
-codificador con prioridad 
-multiplexores 
-demultiplexores 
-ejercicios del   
+combinational logic circuits 
+seven segment display 
+comparator of two numbers 
+semiamer and full adder 
+decoders 
+encoders 
+priority  encoder
+multiplexers 
+demultiplexers 
+exercises from   
   
-circuitos lógicos secuenciales 
-preliminares 
-latches y flip flops 
-aplicaciones básicas de los latches y los flip flops 
-tablas de excitación 
-ejercicios del   
-apéndice 
-análisis combinacional 
-apéndice 
-transistores 
-referencia 
+sequential logic circuits 
+preliminaries 
+latches and flip flops 
+basic applications of latches and flip flops 
+excitation tables 
+exercises from   
+appendix 
+combinational analysis 
+appendix 
+transistors 
+reference 
 
-->**********************************21_Ndjountche.txt
+->**********************************21_Ndjountche_en.txt
 preface                                         ix
    number systems                           
  introduction                                  
@@ -5759,7 +5764,7 @@ defined functions
  solutions                                    
 bibliography                                     
 index                                          
-->**********************************22_Kani.txt
+->**********************************22_Kani_en.txt
 preface vii
     introduction to digital systems  
  analog and digital electronics 
@@ -6261,7 +6266,7 @@ appendix   keywords in verilog a
 appendix   operators and net data types in verilog a
 university question papers q q
 index i i
-->**********************************23_Groote.txt
+->**********************************23_Groote_en.txt
  basic components and combinatorial circuits 
  the three basic logic gates 
  other logic gates 
@@ -6408,7 +6413,7 @@ d answers for
 references 
 index 
 
-->**********************************24_El-Sheikh.txt
+->**********************************24_El-Sheikh_en.txt
 preface
   introduction
 
@@ -6637,7 +6642,7 @@ appendix f  list of  series integrated circuits
 f integrated circuits functioning
 f integrated circuits pin configuration
 
-->**********************************25_Mazumder.txt
+->**********************************25_Mazumder_en.txt
 preface xi
 acknowledgement xv
 list of figures xvii
