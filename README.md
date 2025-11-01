@@ -6,10 +6,14 @@ En este repositorio se encuentra la evidencia del proceso realizado para el anal
 
 * Pytools:\
     Clases creadas poara el procesamiento de los archivos de los contenidos de los libros consultados.
-    - Parameters.py:
-        Parametros necesarios para el experimento.
     - Consolidar.py:
         Une los archivos de la carpeta de contenidos en unso solo y lo deja en la  carpeta de salida.
+    - LimpiarTexto.py:
+        Este script lee el archivo consolidado, elimina los números del contenido al igual que las palabras contenidas en el archivo stopwords.csv y comvierte este contenido en minúsculas. El resultado queda en la carpeta de contenidos limpios.
+    - NubePalabras.py:
+        Crea la nuve de palabras basado en el archivo limpio. Depende de WordCloud (pip install wordcloud)
+    - Parameters.py:
+        Parametros necesarios para el experimento, como rutas y nombres de archivo.
     - UnificarLenguaje.py:
         Traduce las líneas del archivo consolidado. Depende del traductor de goolge en linea (pip install googletrans==4.0.0-rc1).
 ## Descripcion de directorios
