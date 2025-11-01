@@ -1,200 +1,200 @@
-design
-flip flop
-circuit
-gate
-binary
-counter
-digital
-introduction
-input
-d
-bit
-decoder
-memory
-conversion
-verilog
-test bench
-logic
-basic
-multiplexer
-logic gate
-register
-code
-system
-parallel
-shift register
-chapter
-operation
-serial
-application
-cmo
-bcd
-function
-implementation
-simulation
-output
-data
-arithmetic
-ttl
-addition
-encoder
-model
-number system
-logic circuit
-s complement
-example
-analog
-signal
-subtraction
-representation
-ic
-analysis
-two
-architecture
-karnaugh map
-programmable logic
-nand gate
-boolean algebra
-combinational logic
-sequential circuit
-vhdl
-hdl
-state machine
-summary
-fpga
-statement
-type questions
-decoding
-clock
-number
-voltage
-structure
-d converter
-nand
-s
-method
-adder
-d flip
-division
-converter
-module
-device
-level
-binary number
-timing
-theorem
-state
-control
-synthesis
-microprocessor
-integrated circuit
-problems exercise
-rom
-appendix
-digital system
-review questions
-computer
-unit
-based
-full adder
-sequential
-using
-series
-characteristic
-interfacing
-latch
-multiplication
-microcontroller
-transistor
-synchronous counter
-logic function
-combinational circuit
-floating point
-asynchronous
-block
-boolean expression
-decimal
-index
-generator
-comparator
-exercise
-alu
-law
-components experimental
-experimental verification
-reinforcement questions
-inverter
-synchronous
-operator
-current
-x
-sequential logic
-octal
-parity
-latches
-memories
-symbol
-standard
-read
-time
-sum
-base
-gray code
-simplification
-map
-one
-simple
-description
-family
-logic device
-study guide
-exercises chapter
-exclusive
-semiconductor
-table
-product
-power
-active
-sequence
-demultiplexer
-objectives study
-hexadecimal
-minimization
-processor
-frequency
-j
-definition
-logical
-mode
-hazard
-technique
-seven segment
-jk flip
-questions answers
-low
-delay
-conclusion
-type
-list
-element
-algorithm
-logic families
-priority encoder
-code converter
-digital circuit
-data type
-multiple choice
-choice type
-answers reasoning
-reasoning type
-answers solved
-troubleshooting
-ram
-high
-switching
-enable
-array
-program
-assignment
-subtractor
-diode
+design,1.0
+flip flop,0.8381742738589212
+circuit,0.7634854771784232
+gate,0.7468879668049793
+binary,0.6307053941908713
+counter,0.6224066390041494
+digital,0.49377593360995853
+introduction,0.42738589211618255
+input,0.4066390041493776
+d,0.3941908713692946
+bit,0.35684647302904565
+decoder,0.35684647302904565
+memory,0.3360995850622407
+conversion,0.3112033195020747
+verilog,0.3112033195020747
+test bench,0.3112033195020747
+logic,0.3070539419087137
+basic,0.2987551867219917
+multiplexer,0.2946058091286307
+logic gate,0.2946058091286307
+register,0.2863070539419087
+code,0.2821576763485477
+system,0.2821576763485477
+parallel,0.27385892116182575
+shift register,0.27385892116182575
+chapter,0.26556016597510373
+operation,0.26141078838174275
+serial,0.26141078838174275
+application,0.26141078838174275
+cmo,0.26141078838174275
+bcd,0.2572614107883817
+function,0.24896265560165975
+implementation,0.24896265560165975
+simulation,0.24066390041493776
+output,0.23651452282157676
+data,0.21991701244813278
+arithmetic,0.2157676348547718
+ttl,0.2157676348547718
+addition,0.2157676348547718
+encoder,0.2157676348547718
+model,0.2157676348547718
+number system,0.2157676348547718
+logic circuit,0.2157676348547718
+s complement,0.2157676348547718
+example,0.21161825726141079
+analog,0.2033195020746888
+signal,0.2033195020746888
+subtraction,0.2033195020746888
+representation,0.1991701244813278
+ic,0.1991701244813278
+analysis,0.18672199170124482
+two,0.18672199170124482
+architecture,0.18672199170124482
+karnaugh map,0.18672199170124482
+programmable logic,0.1825726141078838
+nand gate,0.17842323651452283
+boolean algebra,0.17842323651452283
+combinational logic,0.17427385892116182
+sequential circuit,0.17427385892116182
+vhdl,0.17012448132780084
+hdl,0.17012448132780084
+state machine,0.17012448132780084
+summary,0.16182572614107885
+fpga,0.16182572614107885
+statement,0.16182572614107885
+type questions,0.16182572614107885
+decoding,0.15767634854771784
+clock,0.15767634854771784
+number,0.15352697095435686
+voltage,0.14937759336099585
+structure,0.14937759336099585
+d converter,0.14937759336099585
+nand,0.14522821576763487
+s,0.14522821576763487
+method,0.14522821576763487
+adder,0.14522821576763487
+d flip,0.14522821576763487
+division,0.14107883817427386
+converter,0.14107883817427386
+module,0.14107883817427386
+device,0.13692946058091288
+level,0.13692946058091288
+binary number,0.13692946058091288
+timing,0.13278008298755187
+theorem,0.13278008298755187
+state,0.12863070539419086
+control,0.12863070539419086
+synthesis,0.12863070539419086
+microprocessor,0.12863070539419086
+integrated circuit,0.12863070539419086
+problems exercise,0.12863070539419086
+rom,0.12448132780082988
+appendix,0.12448132780082988
+digital system,0.12448132780082988
+review questions,0.12448132780082988
+computer,0.12033195020746888
+unit,0.12033195020746888
+based,0.12033195020746888
+full adder,0.12033195020746888
+sequential,0.11618257261410789
+using,0.11618257261410789
+series,0.11618257261410789
+characteristic,0.11618257261410789
+interfacing,0.11203319502074689
+latch,0.11203319502074689
+multiplication,0.11203319502074689
+microcontroller,0.11203319502074689
+transistor,0.11203319502074689
+synchronous counter,0.11203319502074689
+logic function,0.11203319502074689
+combinational circuit,0.11203319502074689
+floating point,0.11203319502074689
+asynchronous,0.1078838174273859
+block,0.1078838174273859
+boolean expression,0.1078838174273859
+decimal,0.1037344398340249
+index,0.1037344398340249
+generator,0.1037344398340249
+comparator,0.1037344398340249
+exercise,0.1037344398340249
+alu,0.1037344398340249
+law,0.1037344398340249
+components experimental,0.1037344398340249
+experimental verification,0.1037344398340249
+reinforcement questions,0.1037344398340249
+inverter,0.0995850622406639
+synchronous,0.0995850622406639
+operator,0.0995850622406639
+current,0.0995850622406639
+x,0.0995850622406639
+sequential logic,0.0995850622406639
+octal,0.0954356846473029
+parity,0.0954356846473029
+latches,0.0954356846473029
+memories,0.0954356846473029
+symbol,0.0954356846473029
+standard,0.0912863070539419
+read,0.0912863070539419
+time,0.0912863070539419
+sum,0.0912863070539419
+base,0.0912863070539419
+gray code,0.0912863070539419
+simplification,0.08713692946058091
+map,0.08713692946058091
+one,0.08713692946058091
+simple,0.08713692946058091
+description,0.08713692946058091
+family,0.08713692946058091
+logic device,0.08713692946058091
+study guide,0.08713692946058091
+exercises chapter,0.08713692946058091
+exclusive,0.08298755186721991
+semiconductor,0.08298755186721991
+table,0.08298755186721991
+product,0.08298755186721991
+power,0.08298755186721991
+active,0.08298755186721991
+sequence,0.08298755186721991
+demultiplexer,0.08298755186721991
+objectives study,0.08298755186721991
+hexadecimal,0.07883817427385892
+minimization,0.07883817427385892
+processor,0.07883817427385892
+frequency,0.07883817427385892
+j,0.07883817427385892
+definition,0.07883817427385892
+logical,0.07883817427385892
+mode,0.07883817427385892
+hazard,0.07883817427385892
+technique,0.07883817427385892
+seven segment,0.07883817427385892
+jk flip,0.07883817427385892
+questions answers,0.07883817427385892
+low,0.07468879668049792
+delay,0.07468879668049792
+conclusion,0.07468879668049792
+type,0.07468879668049792
+list,0.07468879668049792
+element,0.07468879668049792
+algorithm,0.07468879668049792
+logic families,0.07468879668049792
+priority encoder,0.07468879668049792
+code converter,0.07468879668049792
+digital circuit,0.07468879668049792
+data type,0.07468879668049792
+multiple choice,0.07468879668049792
+choice type,0.07468879668049792
+answers reasoning,0.07468879668049792
+reasoning type,0.07468879668049792
+answers solved,0.07468879668049792
+troubleshooting,0.07053941908713693
+ram,0.07053941908713693
+high,0.07053941908713693
+switching,0.07053941908713693
+enable,0.07053941908713693
+array,0.07053941908713693
+program,0.07053941908713693
+assignment,0.07053941908713693
+subtractor,0.07053941908713693
+diode,0.07053941908713693
