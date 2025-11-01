@@ -7,6 +7,7 @@ class UnificarLenguaje:
         archivosOriginales = os.listdir(Parameters.contenidosOriginalesPath)
         for archivo in archivosOriginales:
             print(archivo)
+            
     @staticmethod
     def __ProcessFileLine(linea):
         try:          
