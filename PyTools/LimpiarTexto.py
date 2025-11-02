@@ -38,5 +38,5 @@ class LimpiarTexto:
     def __QuitaStopWords(cadena):        
         cadenaFinal = cadena
         for stopword in LimpiarTexto.stopwords:
-            cadenaFinal=str.replace(cadenaFinal," "+stopword+" "," ")        
+            cadenaFinal=str.replace(cadenaFinal,stopword," ")
         return cadenaFinal
