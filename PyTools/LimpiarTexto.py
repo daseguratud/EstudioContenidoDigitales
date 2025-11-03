@@ -1,23 +1,24 @@
 from .Parameters import Parameters
+from .FileHelper import FileHelper
 class LimpiarTexto:
     stopwords=""
     @staticmethod
     def Limpiar():
-        lineas=Parameters.ReadAllLines("stopwords.csv")
+        lineas=FileHelper.ReadAllLines("stopwords.csv")
         LimpiarTexto.stopwords = []
         for linea in lineas: 
             LimpiarTexto.stopwords.append(linea.replace("\n",""))
         print("->*********** Stopwords")
         print(LimpiarTexto.stopwords)
-        Parameters.CreatePath(Parameters.contenidosLimpiosPath)
-        Parameters.CreateFile(Parameters.getOutFileLimpios())
-        Parameters.CopyFile(Parameters.getOutFileConsolidados(),Parameters.getOutFileLimpios())
+        FileHelper.CreatePath(Parameters.contenidosLimpiosPath)
+        FileHelper.CreateFile(Parameters.getOutFileLimpios())
+        FileHelper.CopyFile(Parameters.getOutFileConsolidados(),Parameters.getOutFileLimpios())
         LimpiarTexto.__ProcessFileLines(LimpiarTexto.__LimpiaNumeros)
         LimpiarTexto.__ProcessFileLines(LimpiarTexto.__ToLower)
         LimpiarTexto.__ProcessFileLines(LimpiarTexto.__QuitaStopWords)
     @staticmethod
     def __ProcessFileLines(function):
-        lineas=Parameters.ReadAllLines(Parameters.getOutFileLimpios())
+        lineas=FileHelper.ReadAllLines(Parameters.getOutFileLimpios())
         with open(Parameters.getOutFileLimpios(),'w+',encoding="utf-8") as destino:
             for linea in lineas:
                 if(not linea.startswith('->')):

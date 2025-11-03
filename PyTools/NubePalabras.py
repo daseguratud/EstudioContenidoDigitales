@@ -1,11 +1,12 @@
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from .Parameters import Parameters
-
+from .FileHelper import FileHelper
 class NubePalabras:
     @staticmethod
     def CrearNube():
-        texto = Parameters.ReadAllText(Parameters.getOutFileLimpios())
+        FileHelper.CreatePath(Parameters.nubePalabrasPath)
+        texto = FileHelper.ReadAllText(Parameters.getOutFileLimpios())
         nube_palabras = WordCloud(
             width=800, height=400, 
             background_color='white', 
@@ -20,6 +21,5 @@ class NubePalabras:
         for frecuency in frequencies.items():
             data=f"{frecuency[0]},{frecuency[1]}"
             datFrec.append(data)
-        Parameters.CreatePath(Parameters.nubePalabrasPath)
-        Parameters.CreateFile(Parameters.getOutFileNubePalabrasFrec())
-        Parameters.WriteAllText(Parameters.getOutFileNubePalabrasFrec(),str.join("\n",datFrec))
+        FileHelper.CreateFile(Parameters.getOutFileNubePalabrasFrec())
+        FileHelper.WriteAllText(Parameters.getOutFileNubePalabrasFrec(),str.join("\n",datFrec))

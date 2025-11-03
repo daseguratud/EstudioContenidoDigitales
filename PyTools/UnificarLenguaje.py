@@ -1,23 +1,24 @@
 from .Parameters import Parameters
-import os
+from .FileHelper import FileHelper
 from googletrans import Translator
+import os
 class UnificarLenguaje:
     @staticmethod
     def Traducir():
-        Parameters.CreatePath(Parameters.contenidosTraducidosPath)
+        FileHelper.CreatePath(Parameters.contenidosTraducidosPath)
         archivosOriginales = os.listdir(Parameters.contenidosOriginalesPath)
         for archivo in archivosOriginales:
             origen = Parameters.contenidosOriginalesPath+archivo
             destino =Parameters.contenidosTraducidosPath+archivo.replace("es","en")            
             if(archivo.find("es")>=0):                
                 traduccion = UnificarLenguaje.__TraducirContenido(origen)
-                Parameters.WriteAllText(destino,traduccion)
+                FileHelper.WriteAllText(destino,traduccion)
             else:
-                Parameters.CopyFile(origen,destino)
+                FileHelper.CopyFile(origen,destino)
     @staticmethod
     def __TraducirContenido(archivo):
         try:
-            Contenido = Parameters.ReadAllText(archivo)
+            Contenido = FileHelper.ReadAllText(archivo)
             lineas=Contenido.splitlines()
             traductor = Translator()
             grupos=[]

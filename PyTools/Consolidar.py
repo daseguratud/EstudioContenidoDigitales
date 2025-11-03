@@ -1,5 +1,6 @@
 import os
 from .Parameters import Parameters
+from .FileHelper import FileHelper
 class Consolidar:
     @staticmethod
     def UnirArchivos():
@@ -23,5 +24,5 @@ class Consolidar:
             file.write(contenido)
     @staticmethod
     def __ClearOutputPutFile():
-        Parameters.CreatePath(Parameters.contenidosUnificadosPath)
-        Parameters.CreateFile(Parameters.getOutFileConsolidados())
+        FileHelper.CreatePath(Parameters.contenidosUnificadosPath)
+        FileHelper.CreateFile(Parameters.getOutFileConsolidados())
