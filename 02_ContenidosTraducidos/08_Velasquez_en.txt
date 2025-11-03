@@ -516,7 +516,7 @@ The STM32 Nucleo family of prototyping platforms
 Representative platforms of the STM32 Nucleo-64 series
 Representative platforms of the STM32 Nucleo-144 series
 Future prospects for microcontrollers
-FPGA Circuits: Fundamentals and Prototyping Platforms
+FPGA circuits: fundamentals and prototyping platforms
 Internal structure of FPGA circuits
 Multilevel architectures in configurable logic
 Logic modules embedded in an FPGA circuit

@@ -4,18 +4,22 @@ class LimpiarTexto:
     stopwords=""
     @staticmethod
     def Limpiar():
-        lineas=FileHelper.ReadAllLines("stopwords.csv")
-        LimpiarTexto.stopwords = []
-        for linea in lineas: 
-            LimpiarTexto.stopwords.append(linea.replace("\n",""))
-        print("->*********** Stopwords")
-        print(LimpiarTexto.stopwords)
         FileHelper.CreatePath(Parameters.contenidosLimpiosPath)
         FileHelper.CreateFile(Parameters.getOutFileLimpios())
         FileHelper.CopyFile(Parameters.getOutFileConsolidados(),Parameters.getOutFileLimpios())
         LimpiarTexto.__ProcessFileLines(LimpiarTexto.__LimpiaNumeros)
         LimpiarTexto.__ProcessFileLines(LimpiarTexto.__ToLower)
-        LimpiarTexto.__ProcessFileLines(LimpiarTexto.__QuitaStopWords)
+        # LimpiarTexto.stopwords = LimpiarTexto.LoadCustomStopWords()
+        # print("->*********** Stopwords")
+        # print(LimpiarTexto.stopwords)
+        # LimpiarTexto.__ProcessFileLines(LimpiarTexto.__QuitaStopWords)
+    @staticmethod
+    def LoadCustomStopWords():
+        lineas=FileHelper.ReadAllLines("stopwords.csv")
+        stopwords = []
+        for linea in lineas: 
+            stopwords.append(linea.replace("\n",""))
+        return stopwords 
     @staticmethod
     def __ProcessFileLines(function):
         lineas=FileHelper.ReadAllLines(Parameters.getOutFileLimpios())

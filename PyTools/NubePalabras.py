@@ -1,13 +1,16 @@
-from wordcloud import WordCloud
+from wordcloud import WordCloud,STOPWORDS
 import matplotlib.pyplot as plt
 from .Parameters import Parameters
 from .FileHelper import FileHelper
+from .LimpiarTexto import LimpiarTexto
 class NubePalabras:
     @staticmethod
     def CrearNube():
         FileHelper.CreatePath(Parameters.nubePalabrasPath)
         texto = FileHelper.ReadAllText(Parameters.getOutFileLimpios())
+        stopWords = STOPWORDS.union(LimpiarTexto.LoadCustomStopWords())
         nube_palabras = WordCloud(
+            stopwords= stopWords,
             width=800, height=400, 
             background_color='white', 
             colormap='viridis').generate(texto)
